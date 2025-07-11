@@ -39,27 +39,37 @@ npm run dev
 
 ### Backend Setup
 
-1. Create and activate a virtual environment (recommended):
+1. Navigate to the backend directory and create a virtual environment:
 ```bash
-# Run these commands from the root directory
+# Navigate to the backend directory first
+cd backend
+
+# Create and activate a virtual environment in the backend directory
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 ```
 
 2. Install backend dependencies:
 ```bash
-# Make sure you're in the root directory
-pip install -r requirements/backend.txt
+# Make sure you're in the backend directory
+pip install -r ../requirements/backend.txt
+
+# IMPORTANT: Install the SpaCy language model
+python -m spacy download en_core_web_sm
 ```
 
 3. Start the FastAPI server:
 ```bash
-# Navigate to the backend directory first
-cd backend
-uvicorn main:app --reload
+# Make sure you're in the backend directory
+uvicorn app.main:app --reload
 ```
 
 4. The API will be available at http://localhost:8000
+
+> **Important:** If you get an error like "Could not import module 'main'", the issue is likely with the directory structure or module path:
+> - Ensure you're in the `backend` directory when running the uvicorn command
+> - Check that the main.py file is located at `backend/app/main.py`
+> - The correct uvicorn command would be `uvicorn app.main:app --reload`
 
 ## Using the Application
 
@@ -86,6 +96,8 @@ You do not need to run any data processing scripts as all necessary data is incl
 verifact/
 ├── front/                 # React frontend with TailwindCSS
 ├── backend/               # FastAPI backend
+│   ├── app/               # Main application code
+│   │   └── main.py        # FastAPI application entry point
 ├── data/                  # Additional data files
 │   ├── wiki/              # Wikipedia data
 │   └── news/              # News data
@@ -110,8 +122,15 @@ verifact/
 ## Troubleshooting
 
 - **Backend connection error**: Ensure the FastAPI server is running on port 8000
+- **ASGI app import error**: Check the directory structure and use `uvicorn app.main:app --reload` from within the backend folder
 - **Missing LLM responses**: Check that Ollama is installed and the Qwen3 model is available
 - **Slow response times**: The first query may take longer as the LLM loads
+- **File path errors**: If you get errors about missing index files, run the provided fix script:
+  ```bash
+  # From the root directory
+  python fix_paths.py
+  ```
+  This script will update the paths in services.py to correctly point to the index files in the root directory
 
 ## Credits
 

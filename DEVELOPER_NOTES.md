@@ -52,11 +52,44 @@ The pre-processed data included in this repository was created through this pipe
 
 - **Code**:
   - `backend/`: FastAPI application and services
+    - `backend/app/`: Main application module
+    - `backend/app/main.py`: FastAPI application entry point
+    - `backend/app/services/`: Backend services for claim extraction, retrieval, etc.
   - `front/`: React frontend application
   - `scripts/`: Data processing and indexing scripts
 
 - **Dependencies**:
   - `requirements/backend.txt`: Python dependencies for the backend
+
+## Development Environment Setup
+
+1. **Backend Setup**:
+   ```bash
+   # Navigate to the backend directory
+   cd backend
+
+   # Create a virtual environment in the backend directory
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+   # Install dependencies
+   pip install -r ../requirements/backend.txt
+
+   # Start the development server
+   uvicorn app.main:app --reload
+   ```
+
+2. **Frontend Setup**:
+   ```bash
+   # Navigate to the frontend directory
+   cd front
+
+   # Install dependencies
+   npm install
+
+   # Start the development server
+   npm run dev
+   ```
 
 ## Extending the Knowledge Base
 
@@ -146,7 +179,7 @@ By default, VeriFact uses Qwen3:8b via Ollama, but you can customize this:
    - Set the `MODEL_NAME` environment variable
 
 2. To use an API-based LLM:
-   - Modify `backend/services/llm_service.py` to use an API-based provider
+   - Modify `backend/app/services/llm_service.py` to use an API-based provider
    - Add appropriate authentication in the environment variables
 
 ## Frontend Component Structure
@@ -168,4 +201,5 @@ The React frontend is organized as follows:
 
 - **Missing chunks or index files**: Verify that `faiss_index.bin` and `doc_chunks.pkl` are in the root directory
 - **LLM connection issues**: Verify Ollama is running and the model is pulled
+- **ASGI import error**: If you get "Could not import module 'main'", make sure you're running `uvicorn app.main:app --reload` from the `backend` directory
 - **Slow retrieval**: Consider optimizing the FAISS index parameters in the indexing script
