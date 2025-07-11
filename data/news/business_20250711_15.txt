@@ -1,0 +1,57 @@
+TITLE: Google salaries revealed: how much the search giant pays software engineers and other key roles amid the AI boom
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/google-salaries-revealed-software-engineers-paid-2025-7
+
+Google and Alphabet chief Sundar Pichai is one of the tech industry's highest-paid CEOs.CAMILLE COHEN/AFP via Getty Images
+As the AI talent wars rage on, Google and other tech giants are shelling out top dollar to lure top talent.
+Google has long been revered within Silicon Valley for its generous compensation packages, and its DeepMind unit even resorted to aggressive noncompetes in the UK.
+At the same time, Google has made changes to its compensation processes in recent months as others in the tech industry — such as Meta and Microsoft — have sought to weed out low performers.
+In April, the search giant changed the way it ranked employees in their yearly performance reviews. Its head of compensation told staff in a memo that "high performance is more important than ever," Business Insider previously reported.
+While Google keeps salary data confidential, publicly available work-visa data can provide a glimpse into how much it pays for certain roles. The figures are derived from filings that all companies submit to the Labor Department to obtain work visas for foreign workers.
+Google employs thousands of software engineers through this process, and according to the data, they can command salaries as high as $340,000.
+It's worth noting that these figures reflect only salaries and don't account for the equity or bonuses that Google employees also receive.
+In 2023, BI obtained an internal spreadsheet where thousands of Googlers self-reported their 2022 pay, including some equity and bonus data. Despite the relatively high sums, many said they still felt underpaid.
+Google didn't immediately respond to a request for comment.
+Here's what Google is paying across key roles, based on roughly 6,800 applications from the first quarter of 2025.
+Account manager: $85,500 to $166,000
+Business systems analyst: $141,000 to $201,885
+Financial analyst: $102,000 to $225,230
+Search quality analyst: $120,000 to $235,000
+Application engineer: $138,000 to $199,000
+Customer engineer: $85,009.60 to $228,000
+Customer solutions engineer: $108,000 to $228,000
+Data engineer: $111,000 to $175,000
+Electrical engineer: $119,000 to $203,000
+Hardware engineer: $130,000 to $284,000
+Network engineer: $108,000 to $195,000
+Research engineer: $153,000 to $265,000
+Security engineer: $97,000 to $233,000
+Senior software engineer: $187,000 to $253,000
+Silicon design verification engineer: $126,000 to $207,050
+Silicon engineer: $146,000 to $252,000
+Silicon generalist: $144,000 to $223,000
+Software engineer: $109,180 to $340,000
+Software engineer (Waymo): $150,000 to $282,000
+Software engineer manager: $199,000 to $316,000
+Software engineer, site reliability engineer: $133,000 to $258,000
+Staff software engineer: $220,000 to $323,000
+Data scientist: $133,000 to $260,000
+Research scientist: $155,000 to $303,000
+Product manager: $136,000 to $280,000
+Program manager: $125,000 to $236,000
+Technical program manager: $116,000 to $270,000
+Solutions consultant: $100,000 to $282,000
+Technical solutions consultant: $110,000 to $253,000
+UX designer: $124,000 to $230,000
+UX researcher: $124,000 to $224,000
+
+
+
+
+
+
+
+
+
+
+Jump to

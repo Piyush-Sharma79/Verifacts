@@ -1,0 +1,12 @@
+TITLE: Apple Releases Safari Technology Preview 223 With Bug Fixes and Performance Improvements
+SOURCE: MacRumors
+URL: https://www.macrumors.com/2025/07/09/apple-releases-safari-technology-preview-223/
+
+Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test fe… [+1009 chars]
+
+FULL CONTENT:
+Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the Safari browser.
+‌Safari Technology Preview‌ 223 includes fixes and updates for CSS, JavaScript, Rendering, SVG, Text, Web API, Web Extensions, and Web Inspector.
+The current ‌Safari Technology Preview‌ release is compatible with machines running macOS Sequoia and macOS Tahoe, the newest version of macOS that's set to launch this later this year.
+The ‌Safari Technology Preview‌ update is available through the Software Update mechanism in System Preferences or System Settings to anyone who has downloaded the browser from Apple’s website. Complete release notes for the update are available on the Safari Technology Preview website.
+Apple’s aim with ‌Safari Technology Preview‌ is to gather feedback from developers and users on its browser development process. ‌Safari Technology Preview‌ can run side-by-side with the existing Safari browser and while it is designed for developers, it does not require a developer account to download and use.

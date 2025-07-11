@@ -1,11 +1,12 @@
 import spacy
-from typing import List
+from typing import List, Dict, Any, Union
 import faiss
 import pickle
 from sentence_transformers import SentenceTransformer
 from langchain_ollama.chat_models import ChatOllama
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
+from datetime import datetime
 
 
 # --- Constants ---
@@ -46,6 +47,8 @@ PROMPT_TEMPLATE = PromptTemplate.from_template(
     Verdict: [Your verdict]
     Explanation: [Your explanation]
     Sources: [Sources from evidence, if available]
+
+    Keep in mind the reliability and recency of the sources. News articles may be more current but Wikipedia articles may be more comprehensive for historical facts.
     """
 )
 GENERATION_CHAIN = PROMPT_TEMPLATE | LLM | StrOutputParser()
@@ -77,9 +80,10 @@ def extract_claims(text: str) -> List[str]:
     return claims
 
 
-def retrieve_documents(query: str, k: int = 3) -> List[str]:
+def retrieve_documents(query: str, k: int = 3) -> List[Dict[str, Any]]:
     """
     Retrieves the k most relevant documents for a given query.
+    Returns a list of dictionaries with document content and metadata.
     """
     # Generate embedding for the query
     query_embedding = EMBEDDING_MODEL.encode([query])[0].reshape(1, -1).astype('float32')
@@ -87,27 +91,130 @@ def retrieve_documents(query: str, k: int = 3) -> List[str]:
     # Search in the FAISS index
     D, I = INDEX.search(query_embedding, k)
 
-    # Retrieve the corresponding documents
-    # Handle both string and Document object cases
+    # Retrieve the corresponding documents with metadata
     results = []
-    for i in I[0]:
-        doc = DOC_CHUNKS[i]
-        # Check if it's a Document object with a page_content attribute
+    for i, idx in enumerate(I[0]):
+        if idx < 0 or idx >= len(DOC_CHUNKS):  # Safety check
+            continue
+
+        doc = DOC_CHUNKS[idx]
+        similarity_score = float(D[0][i])  # Convert from numpy to Python float
+
+        # Extract content and metadata
+        content = ""
+        metadata = {}
+        source_type = "unknown"
+
+        # Handle different document formats
         if hasattr(doc, 'page_content'):
-            results.append(doc.page_content)
-        # Check if it's a dictionary with a 'content' key
-        elif isinstance(doc, dict) and 'content' in doc:
-            results.append(doc['content'])
-        # Otherwise, assume it's a string
+            content = doc.page_content
+            metadata = doc.metadata if hasattr(doc, 'metadata') else {}
+            source_type = metadata.get('source_type', 'unknown')
+        elif isinstance(doc, dict):
+            content = doc.get('content', str(doc))
+            metadata = doc.get('metadata', {})
+            source_type = metadata.get('source_type', 'unknown')
         else:
-            results.append(str(doc))
+            content = str(doc)
+
+        # Format document for display
+        doc_info = {
+            "content": content,
+            "source_type": source_type,
+            "source": metadata.get('source', 'Unknown source'),
+            "similarity": similarity_score,
+            "metadata": metadata
+        }
+
+        results.append(doc_info)
+
+    # Sort by similarity score
+    results = sorted(results, key=lambda x: x['similarity'])
+
     return results
 
 
-def generate_verdict(claim: str, evidence: List[str]) -> str:
+def generate_verdict(claim: str, evidence: List[Dict[str, Any]]) -> Dict[str, Any]:
     """
     Generates a verdict for a claim based on the retrieved evidence.
+    Returns a dictionary with verdict information.
     """
-    evidence_text = "\n\n".join(evidence)
-    verdict = GENERATION_CHAIN.invoke({"claim": claim, "evidence": evidence_text})
-    return verdict
+    # Format evidence text for the LLM
+    evidence_texts = []
+    for i, doc in enumerate(evidence):
+        source_info = f"SOURCE {i+1} [{doc['source_type']}]: {doc['source']}"
+        content = doc['content']
+        evidence_texts.append(f"{source_info}\n{content}")
+
+    evidence_text = "\n\n" + "\n\n".join(evidence_texts)
+
+    # Get raw verdict from LLM
+    raw_verdict = GENERATION_CHAIN.invoke({"claim": claim, "evidence": evidence_text})
+
+    # Try to parse the verdict structure
+    verdict_info = parse_verdict(raw_verdict)
+
+    # Add timestamp and evidence sources
+    verdict_info["timestamp"] = datetime.now().isoformat()
+    verdict_info["evidence_sources"] = [doc["source"] for doc in evidence]
+
+    # Determine confidence level
+    verdict_info["confidence"] = determine_confidence(verdict_info, evidence)
+
+    return verdict_info
+
+
+def parse_verdict(raw_verdict: str) -> Dict[str, str]:
+    """
+    Parses the raw verdict text into structured components.
+    """
+    verdict_info = {
+        "raw": raw_verdict,
+        "verdict": "Unknown",
+        "explanation": "",
+        "sources": ""
+    }
+
+    lines = raw_verdict.split('\n')
+    for line in lines:
+        line = line.strip()
+        if line.lower().startswith("verdict:"):
+            verdict_info["verdict"] = line[8:].strip()
+        elif line.lower().startswith("explanation:"):
+            verdict_info["explanation"] = line[12:].strip()
+        elif line.lower().startswith("sources:"):
+            verdict_info["sources"] = line[8:].strip()
+
+    return verdict_info
+
+
+def determine_confidence(verdict_info: Dict[str, str], evidence: List[Dict[str, Any]]) -> str:
+    """
+    Determines the confidence level based on verdict and evidence quality.
+    """
+    verdict_text = verdict_info["verdict"].lower()
+
+    # Default to medium confidence
+    confidence = "medium"
+
+    # Check for explicit uncertainty in the verdict
+    if "not enough information" in verdict_text or "uncertain" in verdict_text:
+        confidence = "low"
+
+    # Check evidence sources
+    wiki_count = sum(1 for doc in evidence if doc["source_type"] == "wikipedia")
+    news_count = sum(1 for doc in evidence if doc["source_type"] == "news")
+
+    # If we have multiple sources of different types, higher confidence
+    if wiki_count > 0 and news_count > 0:
+        confidence = "high" if confidence != "low" else "medium"
+
+    # If we have only news sources for a historical claim, lower confidence
+    if wiki_count == 0 and news_count > 0 and "historical" in verdict_info["explanation"].lower():
+        confidence = "low"
+
+    # If the verdict is very certain based on wording, raise confidence
+    if "clearly" in verdict_info["explanation"].lower() or "definitively" in verdict_info["explanation"].lower():
+        confidence = "high" if confidence != "low" else "medium"
+
+    return confidence

@@ -1,0 +1,28 @@
+TITLE: Law firms' new competition is small, fast, cheap, and AI-driven — and it's not a law firm at all
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/the-legaltech-fund-launches-law-firm-2-0-accelerator-2025-7
+
+The LegalTech Fund founder Zach Posner.The LegalTech Fund
+It's becoming clear that artificial intelligence can automate much of legal work. That has recovering lawyers and software engineers racing to sell tech solutions to law firms and in-house legal teams.
+But the less obvious, and more challenging, move may be to build companies that compete head-on with law firms.
+This idea lies at the heart of the LegalTech Lab, a new accelerator geared toward businesses rethinking how legal services are delivered and scaled. It's an extension of The LegalTech Fund, whose founder, Zach Posner, correctly predicted the legal tech boom in 2019, then raised a fund.
+Legal tech is thriving, raising over $1 billion in venture capital in the first half of this year, according to Crunchbase data and Business Insider's estimate based on recent financings. Though the boom is buoyed by fears of a bubble in legal tech, platforms like Harvey and Hebbia are gaining traction with the largest law firms by revenue, while Eudia, GC AI, and others duke it out for corporate America's time and money.
+The LegalTech Lab's first cohort will consist of 10 companies. Some of the perks for participants will be access to the fund's network of tech leaders, general counsels, and other strategic advisors from cutting-edge law firms and tech giants. The LegalTech Fund will also invest up to $250,000 in each startup in exchange for equity. The terms will vary by company.
+"Law Firm 2.0," Posner said, represents a small, nimble company fueled by AI, like large language models, that aims to help clients with routine legal matters. It typically targets specific use cases, like drafting wills or reviewing limited partner agreements, and charges clients a fixed fee rather than billing by the hour.
+"This is not your Walmart. This is as small of a corner store as you can imagine," said Posner, "They're going to use technology to be the best in the world at that one specific challenge."
+Some of these companies hope to bite into law firms' business, as with Crosby, which has Sequoia backing to sell contract review services, largely to startups. Or HelloPrenup, which says it's helped over 50,000 couples create their prenuptial agreements online over the course of seven years.
+Eudia, which supports in-house legal teams, revealed this week that it had acquired an alternative legal service provider, adding several hundred legal professionals to its team. Founder Omar Haroun told Business Insider that its ultimate goal is to help clients reduce their reliance on outside counsel.
+Posner believes the bigger opportunity for Law Firm 2.0 is meeting the unmet demand for legal services. He says many more small and midsize businesses experience legal problems but do not receive the necessary legal help to solve them, either due to a lack of access, cost, or awareness.
+"This stuff is not necessarily the enemy of the law firm," Posner said.
+The LegalTech Lab's launch comes amid some unease in the legal tech market. The influx of funding has triggered a wave of new startups, making the space increasingly crowded. While law firms and in-house teams are piloting a wide array of tools, boosting revenue for many companies, some analysts and investors warn that revenue could dry up as customers choose long-term vendors.
+If Posner manages to build the "Y Combinator of legal tech," he may find that title has already been claimed by Y Combinator itself. The storied startup accelerator has produced a major exit with legal research tool Casetext and rising platforms like Legora for legal research and drafting, Parley for visa services, and PointOne for timekeeping and bill review.
+Y Combinator, too, is focused on the future of legal services. Each year, as applications open, it publishes a wish list of ideas for founders. This year, Law Firm 2.0 topped the list: "Start your own law firm, staff it with AI agents, and compete with the existing firms," partner Jared Friedman wrote.
+Have a tip? Contact the reporter via email at mrussell@businessinsider.com or Signal at @MeliaRussell.01. Use a personal email address and a nonwork device; here's our guide to sharing information securely.
+
+
+
+
+
+
+
+Jump to

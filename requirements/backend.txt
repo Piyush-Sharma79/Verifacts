@@ -1,0 +1,9 @@
+fastapi>=0.100.0
+uvicorn>=0.23.0
+langchain>=0.0.295
+langchain-ollama>=0.0.1
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+spacy>=3.7.0
+Wikipedia-API>=0.6.0
+python-dotenv>=1.0.0

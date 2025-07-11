@@ -1,0 +1,13 @@
+TITLE: OpenAI Finalizes Deal for Jony Ive's 'io' AI Hardware Company
+SOURCE: MacRumors
+URL: https://www.macrumors.com/2025/07/09/openai-jony-ive-io-acquisition-complete/
+
+OpenAI has completed its acquisition of Jony Ive's AI startup io Products, OpenAI said today in a letter from CEO Sam Altman and Ive.
+The io Products team has now officially merged with OpenAI, thou… [+1194 chars]
+
+FULL CONTENT:
+OpenAI has completed its acquisition of Jony Ive's AI startup io Products, OpenAI said today in a letter from CEO Sam Altman and Ive.
+The io Products team has now officially merged with OpenAI, though Jony Ive and his LoveFrom design firm remain independent. Ive and LoveFrom have taken over "deep design and creative responsibilities" at OpenAI. OpenAI paid an estimated $6.5 billion for io.
+OpenAI first announced plans to purchase Jony Ive's startup back in May, and at the time, the two shared a video on their future plans. Ive and Altman are creating a new family of AI devices. "The products that we're using to deliver and connect us to unimaginable technology, they're decades old," said Jony Ive in the acquisition announcement. "It's just common sense to at least think surely there's something beyond these legacy products."
+Ive will design the AI device that OpenAI will eventually launch, and several former Apple design employees who co-founded io with Ive are also moving to OpenAI. While Ive provides design, OpenAI will handle the AI expertise.
+Recent information indicates that Ive and Altman's first device won't be an in-ear device or wearable, and will instead sit in a pocket or on a desk alongside a Mac and an iPhone. Other rumors suggest that the pocket-sized product will be contextually aware of the wearer's surroundings and life, providing insight screen-free.

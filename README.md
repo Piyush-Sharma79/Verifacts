@@ -7,6 +7,8 @@ VeriFact is a real-time AI fact-checking application that uses Retrieval-Augment
 - **Claim Extraction**: Automatically identifies factual claims in user input using spaCy
 - **Evidence Retrieval**: Uses vector search (FAISS) to find relevant information from knowledge sources
 - **AI Verification**: Analyzes evidence against claims using LLMs to provide verdicts
+- **Multiple Knowledge Sources**: Combines Wikipedia articles and recent news for comprehensive fact-checking
+- **Confidence Indicators**: Shows reliability of verdicts based on evidence quality and source diversity
 - **User-Friendly Interface**: Modern UI with visualization of the fact-checking process
 - **Transparent Results**: Shows supporting evidence alongside verdicts for transparency
 
@@ -24,14 +26,17 @@ facts/
 │   ├── public/           # Static files
 │   └── package.json      # Frontend dependencies
 ├── data/                 # Knowledge base files
-│   ├── Eiffel_Tower.txt
-│   ├── Statue_of_Liberty.txt
-│   └── Big_Ben.txt
+│   ├── wiki/             # Wikipedia articles
+│   └── news/             # News articles from NewsAPI
 ├── scripts/              # Utility scripts
-│   ├── create_index.py   # Create FAISS index from data
-│   └── fetch_data.py     # Fetch Wikipedia articles
+│   ├── create_enhanced_index.py  # Create FAISS index from multiple sources
+│   ├── fetch_more_wiki.py        # Fetch extended Wikipedia articles
+│   ├── fetch_news.py             # Fetch current news articles
+│   ├── create_index.py           # Legacy index creator
+│   └── fetch_data.py             # Legacy data fetcher
 ├── doc_chunks.pkl        # Processed document chunks
-└── faiss_index.bin       # Vector index for search
+├── faiss_index.bin       # Vector index for search
+└── env.template          # Template for environment variables
 ```
 
 ## Installation and Setup
@@ -41,6 +46,7 @@ facts/
 - Python 3.9+
 - Node.js 18+ and npm
 - Ollama (for local LLM support)
+- NewsAPI key (for news article retrieval)
 
 ### Backend Setup
 
@@ -58,7 +64,7 @@ source venv/bin/activate
 2. Install dependencies:
 
 ```bash
-pip install fastapi uvicorn langchain langchain_ollama sentence-transformers faiss-cpu spacy
+pip install fastapi uvicorn langchain langchain_ollama sentence-transformers faiss-cpu spacy wikipedia-api python-dotenv
 python -m spacy download en_core_web_sm
 ```
 
@@ -66,15 +72,24 @@ python -m spacy download en_core_web_sm
    - Install Ollama from [https://ollama.com/](https://ollama.com/)
    - Pull the Qwen model: `ollama pull qwen3:8b`
 
-4. Create the knowledge index:
+4. Set up environment variables:
+   - Copy `env.template` to `.env`
+   - Add your NewsAPI key to `.env`
+
+5. Create the knowledge index:
 
 ```bash
-cd ..  # Return to project root
-python scripts/fetch_data.py  # Fetch Wikipedia articles
-python scripts/create_index.py  # Create FAISS index
+# Fetch Wikipedia articles
+python scripts/fetch_more_wiki.py
+
+# Fetch news articles (requires NewsAPI key)
+python scripts/fetch_news.py
+
+# Create the enhanced index
+python scripts/create_enhanced_index.py
 ```
 
-5. Start the backend server:
+6. Start the backend server:
 
 ```bash
 cd backend
@@ -101,29 +116,49 @@ npm run dev
 1. Open your browser to `http://localhost:5173` (or the port shown in your terminal)
 2. Enter a factual claim in the text area (e.g., "The Eiffel Tower is 330 meters tall")
 3. Click "Verify" to process the claim
-4. View the verdict and supporting evidence
+4. View the verdict, confidence level, and supporting evidence
 
 ## Expanding the Knowledge Base
 
-To add more topics to the knowledge base:
+### Adding More Wikipedia Articles
 
-1. Add new article titles in `scripts/fetch_data.py`:
+1. Edit `scripts/fetch_more_wiki.py` to add more topics:
    ```python
-   WIKI_PAGES = ["Eiffel Tower", "Statue of Liberty", "Big Ben", "Your New Topic"]
+   WIKI_PAGES = [
+       "Existing Topic",
+       "Your New Topic"
+   ]
    ```
 
-2. Run the data fetching and indexing scripts:
+2. Run the scripts to update your knowledge base:
    ```bash
-   python scripts/fetch_data.py
-   python scripts/create_index.py
+   python scripts/fetch_more_wiki.py
+   python scripts/create_enhanced_index.py
    ```
+
+### Updating News Articles
+
+News articles can be refreshed periodically to keep your knowledge base current:
+
+```bash
+python scripts/fetch_news.py
+python scripts/create_enhanced_index.py
+```
+
+## API Endpoints
+
+- `GET /`: API health check
+- `POST /extract-claims/`: Extract factual claims from text
+- `POST /verify-claim/`: Verify a claim against the knowledge base
+- `GET /knowledge-stats/`: Get statistics about the knowledge base
 
 ## Future Enhancements
 
-- Integration with NewsAPI for current events fact-checking
-- Expanded Wikipedia knowledge base
-- UI improvements with confidence indicators
-- Support for analyzing news headlines and social media content
+- Integration with more specialized fact-checking databases
+- User accounts to track verification history
+- Browser extension for checking claims while browsing
+- Multi-language support
+- Mobile application
 
 ## License
 

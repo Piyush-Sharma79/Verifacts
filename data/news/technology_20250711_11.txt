@@ -1,0 +1,17 @@
+TITLE: An OpenAI Web Browser Is Imminent, Report Says. That Would Really Shake Up the Web
+SOURCE: CNET
+URL: https://www.cnet.com/tech/services-and-software/an-openai-web-browser-is-imminent-report-says-that-would-really-shake-up-the-web/
+
+OpenAI is working on an AI-powered web browser that could make its debut in the coming weeks, according to a report from Reuters on Wednesday. 
+That would be a major incursion by OpenAI, which makes… [+1715 chars]
+
+FULL CONTENT:
+OpenAI is working on an AI-powered web browser that could debut in the coming weeks, Reuters reported on Wednesday. That would be a major incursion by OpenAI, which makes the dominant AI chatbot, ChatGPT, into the realm where Google is top dog.
+Google Chrome is the world's most popular web browser, with a global market share of 68%, according to Statista. Google also has its own generative AI technology, called Gemini, which it has been integrating across its range of products, including web search.
+Gen AI technology has been reshaping people's experience of the web over the last two years. An OpenAI web browser would likely accelerate that process while also giving OpenAI more direct access to user data. (Disclosure: Ziff Davis, CNET's parent company, in April filed a lawsuit against OpenAI, alleging it infringed Ziff Davis copyrights in training and operating its AI systems.)
+OpenAI declined to comment. When asked for comment, Google pointed to a post on X by Chrome's vice president and general manager, Parisa Tabriz, hinting of a new upcoming browser built on Google's open source Chromium project.
+Tons of browser building these days, with so much innovation happening!✨I'm proud to see so many new browsers & web products building on Chromium, an open source project we launched in 2008 to make the web safer, faster & more capable for the world. Onwards together! 🙌🌐♥️
+Any company can build a web browser based on Chromium, helping interoperability and extension support across the internet. Other Chromium browsers, apart from Google Chrome, include Microsoft Edge, Opera, Brave, Vivaldi and Samsung Internet. Firefox is built on Gecko and Apple's Safari is built on WebKit. Perplexity, an AI-powered search engine, also released an AI-powered web browser called Comet, also backed by Chromium, on Wednesday for select paid users.
+Chrome gives Google insight into user behavior across the web, which helps the company better understand user preferences to then sell advertising. Google search is also the default search engine on Chrome, further cementing Google's dominance.
+Other web browsers such as Firefox, Opera and Brave advertise themselves as more privacy focused, with features like tracking protection, built-in VPNs and ad-blocking, but all have only managed low single-digit percentages in market share. Chrome's deep integration with other Google services like Gmail, Drive, Android and account authentication, as well as being the default browser on Android, have made it difficult for other players to gain traction.
+The US Department of Justice is advocating for a forced sale of Chrome after a judge ruled last August that Google was operating an illegal monopoly in the search engine market. OpenAI, Perplexity AI and Yahoo had all expressed interest in buying Chrome.

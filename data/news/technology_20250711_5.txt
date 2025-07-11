@@ -1,0 +1,18 @@
+TITLE: YouTube ‘clarifies’ its plan to demonetize spammy AI slop
+SOURCE: The Verge
+URL: https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam
+
+An update to the platforms monetization rules will tighten restrictions on inauthentic content.
+YouTube is trying to soothe concerns about an incoming update to its monetization policies following b… [+2165 chars]
+
+FULL CONTENT:
+﻿An update to the platform’s monetization rules will tighten restrictions on ‘inauthentic’ content.
+﻿An update to the platform’s monetization rules will tighten restrictions on ‘inauthentic’ content.
+YouTube is trying to soothe concerns about an incoming update to its monetization policies following backlash from online creators. An announcement that YouTube would be updating restrictions around “inauthentic” content under the YouTube Partner Program guidelines was interpreted by some to mean the platform was planning to demonetize a wider variety of videos, including those using AI-generated content, clips, and reactions. Now, YouTube is seeking to clarify the situation.
+“YouTube has always required creators to upload ‘original’ and ‘authentic’ content,” YouTube said in its initial notification about the policy change. “On July 15, 2025, YouTube is updating our guidelines to better identify mass-produced and repetitious content. This update better reflects what ‘inauthentic’ content looks like today.”
+According to a video posted by YouTube editorial head Rene Ritchie, the changes being introduced on July 15th are a “minor update” to existing monetization policies, which already require creators to make significant changes to any unoriginal content in their videos. Ritchie says the new policy language will “help to better identify when content is mass-produced or repetitive,” according to Ritchie. “This kind of content has been ineligible for monetization for years, and it’s content that viewers often consider spam.”
+On Thursday, YouTube also published a new support document “to share more information and answer top questions we’ve seen.” The document says that there are “no changes to our reused content policies” that inform things like commentary and reaction content.
+The updated policy text hasn’t been released yet. Clarifying what type of content is approved for monetization could help to stem the flood of AI-generated video slop on the platform, however. The technology is becoming increasingly accessible, making it easier than ever to produce low-quality content en masse. It’s common to find videos that combine stolen clips with AI-generated voiceovers, and entire channels dedicated to pushing out lazily made AI spam, despite YouTube’s requirement for monetized content to be “original and authentic.”
+In response to an X user speculating that the change will prevent fully AI-generated videos from being monetized entirely, YouTube clarified that using AI to improve content is still eligible if it meets all other policy requirements. With any luck, the clarifications around what counts as “mass-produced or repetitive” content will at least clear some of the spam that’s filling up the YouTube feeds.
+Update, July 10th: Added a link to a new support document from YouTube.
+A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe.

@@ -1,0 +1,17 @@
+TITLE: Evolution Mail Users Easily Trackable
+SOURCE: Grepular.com
+URL: https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable
+
+Evolution Mails Load Remote Content option, as a privacy protection feature doesnt work. They know it doesnt work. It hasnt worked for years and there is no sign it will be fixed any time soon.
+I di… [+1794 chars]
+
+FULL CONTENT:
+Evolution Mail’s “Load Remote Content” option, as a privacy protection feature doesn’t work. They know it doesn’t work. It hasn’t worked for years and there is no sign it will be fixed any time soon.
+I discovered the other day that if a HTML email contains a tag like:
+Then when an email is opened in Evolution Mail, a DNS request for trackingcode.attackersdomain.example.com is performed. This happens with remote content disabled, and without clicking the button to fetch it. The sender can look at their DNS logs to see if you’ve read your email, and the IP address of your DNS resolver at that time, which may indicate your location.
+I opened a bug report with Evolution Mail, and they blamed WebKitGTK for this situation and have closed my ticket as a duplicate of another ticket which was opened in April 2024. That ticket reported a different but similar bug:
+This apparently triggers a connection when you read an email, even without clicking to load remote content. An attacker could look at the SNI header during the TLS negotiation to identify the unique reader of such an email, and it would grant them their IP address.
+This one links back to a webkit bug which was opened in August 2023, which also suggests there will be other such leaks, and which shows no sign of being dealt with.
+I suggested that maintaining a whitelist of allowed html tags and attributes, and stripping them before passing the email html onto a web browser would be a good defense in depth strategy, but this looks unlikely to be followed.
+So my suggestion is: If you care about having privacy when reading your email, uninstall Evolution Mail. It doesn’t protect your privacy, and the devs don’t consider that to be their responsibility.
+Want to leave a tip?You can follow this Blog using RSS or Mastodon. To read more, visit my blog index.

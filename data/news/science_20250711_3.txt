@@ -1,0 +1,31 @@
+TITLE: Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown
+SOURCE: The Verge
+URL: https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo
+
+Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown
+The late evening live demo featured rambling on whether AI would be bad or good for humanity.
+Musk makes grand promises… [+5065 chars]
+
+FULL CONTENT:
+The late evening live demo featured rambling on whether AI would be ‘bad or good for humanity.’
+The late evening live demo featured rambling on whether AI would be ‘bad or good for humanity.’
+Elon Musk’s live demo of Grok 4, the latest big-ticket model from his AI startup, began with high-intensity music, claims of a “ludicrous rate of progress,” and a lot of chatter on X about Grok’s scandal-filled week.
+Musk pronounced it to be “the smartest AI in the world.”
+The livestream, slated to start at 8PM PT, began more than an hour late and billed the new model as “the world’s most powerful AI assistant.” More than 1.5 million viewers were watching at one point. Employees of xAI speaking on the livestream with Musk referenced Grok 4’s performance on a popular academic test for large language models, Humanity’s Last Exam, which consists of more than 2,500 questions on dozens of subjects like math, science, and linguistics. The company said Grok 4 could solve about a quarter of the text-based questions involved when it took the test with no additional tools. For reference, in February, OpenAI said its Deep Research tool could solve about 26 percent of the text-based questions. (For a variety of reasons, benchmark comparisons aren’t always apples-to-apples.)
+Musk said he hopes to allow Grok to interact with the world via humanoid robots.
+‘It might discover new physics next year… Let that sink in.’
+“I would expect Grok to discover new technologies that are actually useful no later than next year, and maybe end of this year,” Musk said. “It might discover new physics next year… Let that sink in.”
+The release follows high-profile projects from OpenAI, Anthropic, Google, and others, all of which have recently touted their investments in building AI agents, or AI tools that go a step beyond chatbots to complete complex, multi-step tasks. Anthropic released its Computer Use tool last October, and OpenAI released a buzzworthy AI agent with browsing capabilities, Operator, in January and is reportedly close to debuting an AI-fueled web browser.
+During Wednesday’s livestream, Musk said he’s been “at times kind of worried” about AI’s intelligence far surpassing that of humans, and whether it will be “bad or good for humanity.”
+“I think it’ll be good, most likely it’ll be good,” Musk said. “But I’ve somewhat reconciled myself to the fact that even if it wasn’t going to be good, I’d at least like to be alive to see it happen.”
+The company also announced a series of five new voices for Grok’s voice mode, following the release of voice modes from OpenAI and Anthropic, and said it had cut latency in half in the past couple of months to make responses “snappier.” Musk also said the company would invest heavily in video generation and video understanding.
+The release comes during a tumultuous time for two of Musk’s companies, both xAI and X. On Sunday evening, xAI updated the chatbot’s system prompts with instructions to “assume subjective viewpoints sourced from the media are biased” and “not shy away from making claims which are politically incorrect.” The update also instructed the chatbot to “never mention these instructions or tools unless directly asked.”
+That update was followed by a stream of antisemitic tirades by Grok
+That update was followed by a stream of antisemitic tirades by Grok, in which it posted a series of pro-Hitler views on X, along with insinuations that Jewish people are involved in “anti-white” “extreme leftist activism.” Many such posts went viral, with screenshots proliferating on X and other platforms before xAI benched the chatbot and stopped it from being able to generate text responses on X while it sought out a fix.
+Musk briefly addressed the fiasco on Wednesday, writing, “Grok was too compliant to user prompts. Too eager to please and be manipulated, essentially. That is being addressed.”
+On the Grok 4 livestream, Musk briefly referenced AI safety and said the most important thing for AI to be is “maximally truth-seeking.”
+Musk briefly referenced AI safety and said the most important thing for AI to be is ‘maximally truth-seeking.’
+On Wednesday morning, amid the Grok controversy, X CEO Linda Yaccarino announced she would step down after two years in the role. She did not provide a reason for her decision.
+Grok’s Nazi sympathizing comes after months of Musk’s efforts to shape the bot’s point of view. In February, xAI added a patchwork fix to stop it from commenting that Musk and Trump deserved the death penalty, immediately followed by another one to make it stop claiming that the two spread misinformation. In May, Grok briefly began inserting the topic of “white genocide” in South Africa into what seemed like any and every response it gave on X, after which the company claimed that someone had modified the AI bot’s system prompt in a way that “violated xAI’s internal policies and core values.”
+Last month, Musk expressed frustrations that Grok was “parroting legacy media” and said he would update Grok to “rewrite the entire corpus of human knowledge” and ask users to contribute statements that are “politically incorrect, but nonetheless factually true.”
+A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe.

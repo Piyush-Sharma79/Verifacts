@@ -1,0 +1,33 @@
+TITLE: A fraud detection firm used AI to help TickPick crack down on ticket scams — and reclaim $3 million in approved orders
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/riskified-ai-fraud-detection-tickpick-falsely-declined-transactions-2025-7
+
+Traditionally, fraud-prevention systems have relied on binary decisions to conclude whether a transaction is real.Maria Korneeva/Getty Images
+Riskified is a software company based in New York City that provides fraud management, risk intelligence, transaction reversal support, and prevention technology to online merchants. Its clients include Mastercard, Shopify, and TickPick.
+TickPick is an online marketplace where users can buy and sell tickets for concerts, sports games, and other live events. The company is also based in New York City.
+Traditionally, fraud-prevention systems have relied on binary yes-or-no decisions to conclude whether a transaction is real. The goal is to approve authentic orders and decline fraudulent ones.
+But Jeff Otto, Riskified's chief marketing officer, told Business Insider that this system has limitations and is often too rigid to keep up with the evolving fraud landscape.
+"Sometimes these old yes-no answers get it right, and it's fraud," Otto said. But sometimes the system gets it wrong, and legitimate orders are falsely declined, he added.
+Otto said that when transactions are falsely declined, it can be frustrating for customers. Each time it happens, companies lose the sale, which can cost them millions of dollars a year. False declines can also tarnish their service reputation when customers don't return, or they review their poor experiences.
+In an effort to move away from the traditional fraud-detection model, Riskified launched Adaptive Checkout, an artificial intelligence-powered tool that analyzes orders in real time. While the tool formally launched in March 2025, some of Riskified's clients tested the product beforehand.
+TickPick, for instance, began using the tool in the testing phase in November 2024 to reduce its fraud risk and improve false decline rates. The company often deals with "very large-priced tickets," such as $20,000 Super Bowl passes, Otto said.
+"They've got to get that order right, but they also have to be very careful because somebody that's buying a $20,000 ticket is not someone you want to upset — and you want that customer back," he said.
+Otto said Adaptive Checkout is an advancement of the company's existing fraud-detection products, with extra features designed to lower false decline rates, increase merchants' revenue, and reduce fraud.
+Riskified's data science team built Adaptive Checkout in-house. Otto said the company also works closely with its clients to help design tools to help them solve their most pressing problems, including accurate transaction approvals and fraud detection.
+He said he runs a customer advisory board with some of Riskified's largest clients, which meets regularly to discuss trends, new fraud cases, and ways to improve customer service.
+Adaptive Checkout uses AI to automatically identify each order's unique risk profile, which includes the customer's shopping history, actual location, billing address, and other data points from the company's network of global merchants.
+Otto said the AI tool adapts an online merchant's checkout process to the transaction's risk level and then decides whether an order is legitimate or fraudulent and should be approved or denied.
+Adaptive Checkout's AI helps TickPick make "intelligent decisions" for each purchase, Otto said. Cases of blatant fraud are automatically declined, while safe transactions are approved. For orders that aren't straightforward, such as when there is a problem with the customer's address or payment source, the tool requests additional details.
+For example, Otto said the AI might ask the customer for their card verification value, the three- or four-digit code on the back of a credit card, or to set up a one-time password. "When we get that back, the order's approved."
+He added that taking an extra step to verify that a customer is legitimate, especially for a high-value purchase, helps protect both merchants and customers.
+TickPick tracked the transactions that were declined due to fraud risk before and after using Adaptive Checkout. Otto said it found that in the first three months of using the tool, TickPick was able to approve as much as $3 million in incremental revenue from orders that it would have previously declined due to fraud risk.
+Otto said about 50 of Riskified's existing clients are using Adaptive Checkout, and Riskified continues to work closely with its clients to get feedback on new AI features and tools. Otto said the company is working on improving and adding new features to the tool later this year.
+
+
+
+
+
+
+
+
+Jump to

@@ -1,0 +1,79 @@
+neumorphism, minimalism, and playful organic design. Here's a detailed breakdown of their characteristics so you can guide Stitch or any design AI effectively:
+
+🔷 Overall Design Style
+Minimal yet expressive
+
+Large whitespace for focus
+
+Sparse layout without clutter
+
+Rounded shapes and cards
+
+Soft edges on containers and elements
+
+Playful, humanised feel
+
+Sticky notes, doodles, and emoji-like icons (first and third images)
+
+Subtle textures or noise backgrounds
+
+Adds warmth and tactility (third image especially)
+
+🖋️ Typography
+Large, bold headings with clean sans-serif fonts
+
+Mixed font weights for hierarchy (e.g. bold headline, thin subheadline)
+
+Occasional playful or rounded fonts (third image)
+
+🎨 Color palette
+Mostly neutral (white, grey, off-white) backgrounds
+
+Accent colours used sparingly (blue buttons, green highlights)
+
+Pastel or muted tones for a calm, professional look
+
+🧩 Visual elements & layout
+Centralised hero text with CTA button underneath
+
+Product screenshots or UI previews slightly tilted or floating
+
+Illustrations/icons integrated organically with content
+
+Soft shadows for depth (neumorphism influence)
+
+🔗 Buttons & CTAs
+High-contrast, rounded buttons
+
+Often primary CTA in accent colour (blue, green) and secondary in neutral tone
+
+📐 Grid & alignment
+Clean vertical flow with sections stacked clearly
+
+Asymmetrical placements to add dynamic feel (e.g. images partially out of container)
+
+Sticky note and paper motifs = approachable and relatable
+
+Integrated UI elements like reminders, integrations
+
+Very neumorphic icons with shadows
+
+
+
+
+Serious, enterprise tone with dark green palette
+
+Human photos with arrows pointing = team-centric, trusted
+
+Grid background for structure and confidence
+
+
+
+
+
+Very playful: emoji icons, irregular cutout shapes
+
+Textured paper background adds personality
+
+
+Asymmetric typography with overlapping images

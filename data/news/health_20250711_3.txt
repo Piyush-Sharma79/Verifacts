@@ -1,0 +1,32 @@
+TITLE: Samsung Galaxy Watch 8 Hands-On: Gemini Arrives on Wrists and It Could Change Everything
+SOURCE: Gizmodo.com
+URL: https://gizmodo.com/samsung-galaxy-watch-8-hands-on-gemini-arrives-on-wrists-and-it-could-change-everything-2000625884
+
+The Galaxy Ultra’s squircle, or what the company calls “cushion” design, has trickled down to the new Galaxy Watch 8 and Galaxy Watch 8 Classic. The two new WearOS-powered smartwatches were announced… [+5310 chars]
+
+FULL CONTENT:
+The Galaxy Ultra’s squircle, or what the company calls “cushion” design, has trickled down to the new Galaxy Watch 8 and Galaxy Watch 8 Classic. The two new WearOS-powered smartwatches were announced alongside the Galaxy Z Fold 7 and Z Flip 7 foldables at Samsung’s Unpacked event in New York City, and are the first wrist-worn wearables to ship with Google’s Gemini AI assistant.
+See Galaxy Watch8 at Samsung.com
+See Galaxy Watch8 Classic at Samsung.com
+Prior to Unpacked, Samsung let media try out the Watch 8, which is the tech company’s thinnest smartwatch to date. With a 1.34-inch round screen that sits on a squircle aluminum case, the Watch 8 comes in two sizes (40mm or 44mm), and in silver or graphite. The 40mm costs $350 for the Bluetooth-only model and $400 for the LTE version. I didn’t think I’d like the two-shape design, but once I had it on my wrist, I quickly came around to its thinness. I have nothing against a bigger and more rugged smartwatch like a Galaxy Watch Ultra or Apple Watch Ultra for the larger screens and longer-lasting batteries, but I prefer my smartwatches to barely feel like they’re on my wrist and never snag onto my shirt cuffs.
+The new design gives Samsung’s wearable a more distinct look. There’s no mistaking it for a OnePlus Watch 3 or Pixel Watch 3. The Samsung-ness extends beyond its surface—you can still use your finger to rotate the touch-sensitive bezel to navigate the One UI 8 Watch software. I’ve always liked this feature, and I’m really glad that Samsung didn’t nix it on the Watch 8. Inside, the Watch 8 has an Exynos W1000 chipset, 2GB of RAM, and 32GB of storage. The batteries for the 40mm and 44mm models are 325mAh and 435mAh, respectively.
+Pony up $500 (Bluetooth) or $550 (LTE) and you can step up to the Watch 8 Classic. It only comes in one 46mm size with a 1.34-inch display. The case is made of a nicer stainless steel material. The chipset and RAM are identical to the Watch 8, and it comes with double the storage (64GB) and a larger 445mAh battery. Aside from those features, the only difference is the bezel—like past “Classic” Samsung smartwatches, it physically rotates with satisfying clicks to control the software. It does mean the Watch 8 Classic is bulkier than the Watch 8, but if you wear gloves, it’s worth the compromise. It’s also just fun to fidget with.
+See Galaxy Watch8 at Samsung.com
+See Galaxy Watch8 Classic at Samsung.com
+Both smartwatches have redesigned lug and band attachment mechanisms that allow them to sit closer to your wrist to provide more accurate sensor tracking. And you definitely want that because Samsung is really leaning into more health-tracking features in the Watch 8 and Watch 8 Classic. Broadly speaking, the smartwatches have more detailed sleep tracking with sleep coaching and bedtime guidance as spotlight features. Other health and fitness features (to name a few) include Vascular Load to detect stress levels when you’re sleeping, Antioxidant Index tracking can “measure carotenoid levels in just five seconds,” and a Running Coach can create personalized training plans with “real-time guidance and motivational insights.” All of the new health and fitness-tracking features offer up more data for which you can take action on. The sensors collect more info, but it’s worth reminding you that the Watch 8 and Watch 8 Classic aren’t replacements for seeing a healthcare professional; they’re still largely for preventive care and living a healthier lifestyle.
+As I noted, these are the first smartwatches to ship preloaded with Google Gemini. I was not able to try out the AI chatbot with all of its advertised functionality in my brief hands-on with the devices, but I am excited by the possibilities of 1) a smarter AI assistant that can just provide answers when I ask it question and 2) agentic experiences where Gemini performs multi-step tasks for me. Samsung offered some examples of what Gemini could do on the Watch 8 series, such as starting a playlist at the same time you initiate a certain distance run, or setting a precise timer when you tell the AI you’re cooking something specific, like fettuccine. Another example Samsung offered was using Gemini to write up an apology text message if you’re running late to meet up with someone.
+I’ll need to spend more time with the Watch 8 and Watch 8 Classic before I can tell whether or not the new health and fitness features, and Gemini, are worthwhile or not. What I can say is that the Watch 8 Classic’s 50% brighter screen and larger battery than the Watch 8 may be the sweet spot without jumping up to the higher-end Galaxy Watch Ultra.
+The Galaxy Watch Ultra isn’t getting a hardware refresh other than a new “Titanium Blue” colorway that comes with twice the storage (64GB) of models released last year. It’ll get the Gemini and some of the new health and fitness-tracking features through a future software update. It’ll start at the same $650.
+The Galaxy Watch 8 and Watch 8 Classic are available for pre-order starting today and will be available starting on July 25.
+See Galaxy Watch8 at Samsung.com
+See Galaxy Watch8 Classic at Samsung.com
+Galaxy Watch 8GeminiSamsungSmartwatcheswearables
+Get the best tech, science, and culture news in your inbox daily.
+News from the future, delivered to your present.
+Please select your desired newsletters and submit your email to upgrade your inbox.
+Samsung's flip-style foldable phone is so close to perfection.
+Google's Gemini AI chatbot is literally all over the Z Fold 7 and Z Flip 7.
+A new study shows wearable data can be used to predict whether kids will get sick again after having their appendix removed.
+Follow along with the Gizmodo crew as we cover all the foldables and wearables Samsung announces at its summer Unpacked event.
+The son of a gun really did it this year. The Z Fold 7 is the biggest year-over-year upgrade to the book-style foldable ever.
+Samsung's flagship flip foldable finally has a cover screen that you don't need to squint at to see.

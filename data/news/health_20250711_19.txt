@@ -1,0 +1,33 @@
+TITLE: Samsung's Galaxy Watch 8 series launches with a thinner Ultra design, powered by Wear OS 6
+SOURCE: Android Central
+URL: https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-galaxy-watch-8-series-launch
+
+What you need to know
+The company's latest smartwatch series is here with a strong focus on your sleep and overall health.
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+It's the big day; Samsung's Unpacked is underway and the company has unveiled its latest Galaxy Watch 8 series.
+To accompany its major summer reveal, Samsung's press release states the Galaxy Watch 8 and Watch 8 Classic arrive with an "iconic design" and build upon the Watch Ultra aesthetic. Such a design leads us to the "cushion" design that Samsung brought with the Ultra, where the circular watch face sits atop a square-ish base. Kicking things off is the Galaxy Watch 8 Classic, which Samsung states brings "timeliness sophistication" with modern features.
+The 8 Classic hits the market in one size, 46mm (1.34-inch display), and is available in black and white options for ~$500. However, it sports a "slimmer, brighter Classic screen." The post states the Watch 8 Classic's display should make consumers' viewing experience much better, meaning apps and things on it are easier to see. Additionally, the continuation of the rotating bezel makes scrolling (or twisting) through your apps a breeze.
+Samsung also highlights a new "Quick Button" for "added convenience." The Watch 8 Classic sports a 445mAh battery, 2GB of memory, and 64GB of storage.
+
+In celebration of the launch, Samsung's TM Roh, president and acting head of the device experience division, said, "By combining purposeful design with advanced sensor technology and an intuitive AI-powered experience, the Galaxy Watch 8 series serves as a starting point for a healthier, more connected life, making it easier than ever to take meaningful steps toward users’ well-being."
+The first major feature is a new one, as Samsung details the Galaxy Watch 8 Classic's "Antioxidant Index." For the first time, the company says users can measure their carotenoid levels "in just five seconds" to make more informed choices for a better lifestyle and healthier aging.
+Samsung is pushing the sleep monitoring experience of its Galaxy Watch 8 series, stating users will find "tailored" sleep coaching tools, severe sleep apnea detection, and the ability to create an ideal sleep environment, so you're not tired the next day.
+Get the latest news from Android Central, your trusted companion in the world of Android
+More than that, the Galaxy Watch 8 Classic introduces several "unique" health-focused features, like Bedtime Guidance. Samsung says this feature will "measure your circadian rhythm" to help you identify the best time to sleep. Additionally, the Watch 8 Classic brings "Vascular Load," which is designed to help users understand their stress levels on their vascular system during the night.
+High Stress alerts and a Mindfulness tracker help users record their mood and manage their stress throughout the day, and there is also a selection of breathing exercises, too. Runners will find a Running Coach and an updated "Together" function, which lets users bring their friends in for a game-like journey into fitness. Energy Score is backed by Samsung's AI, giving users a combined look into their daily energy.
+
+In tandem with Google, Samsung is bringing Gemini to its Galaxy Watch 8 Classic, powered by Wear OS 6. The post highlights the ability to go hands-free, thanks to Gemini. Users can ask the AI to locate a nearby cafe or to text/call someone on their contact list. The Samsung Health app, much like Calendar, Reminder, and the Clock app, is also available to utilize hands-free with Gemini.
+Samsung's own One UI 8 Watch is also rolling out to the Galaxy Watch 8 Classic. The company states the OS has been refined to fit the device's screen, bringing Multi-Info tiles and a watch variant of the Now Bar, prominently featured on the Galaxy S25 series.
+
+On the other hand, the Galaxy Watch 8 model has been granted its thinnest build yet. Samsung says consumers will find the watch is roughly 11% thinner than its previous iterations. The company also implemented its new "Dynamic Lug" system, which helps the watch move with your wrist to increase its comfort levels and improve its overall fit when worn.
+The Galaxy Watch 8 is launching in two sizes: 40mm and 44mm. The post states users will find a 1.34-inch and a 1.47-inch Super AMOLED display, respectively, for these two sizes. Samsung highlights the Watch 8's 50% increase in brightness capabilities with a measurement of 3,000nits.
+Design-wise, like the Watch 8 Classic, the base Watch 8 sports a cushion design, inspired by the Galaxy Watch Ultra.
+Consumers interested in the Galaxy Watch 8 will find the same host of sleep and health/fitness features previously mentioned for the Watch 8 Classic. This includes the assistance of Google's AI, Gemini, and One UI 8 Watch (Wear OS 6). Internally, both devices sport the Exynos W1000 SoC. Samsung states its entry-level Watch 8 receives a 325mAh battery (40mm) and a 435mAh battery (44mm).
+The Watch 8 starts at ~$360 (40mm) and ~$400 (44mm) for its Bluetooth version.
+Lastly, Samsung highlights its 2025 Galaxy Watch Ultra model, which it touts as its "most advanced and durable" version. The watch features an IP68 rating for water resistance and a strong MIL-STD-810H durability rating for bumps and hard knocks. Samsung has also upgraded its 2025 variant with 64GB of storage paired with 2GB of memory.
+The Galaxy Watch Ultra's battery life receives some TLC, as Samsung boosts it with enough power for "100 hours" of use. Many of the other features in the Galaxy Watch 8 series, such as Samsung Health, Gemini, multi-info tiles, and more, are present on the Watch Ultra.
+Users can find this device starting at $649 (47mm) in an all-new Titanium Blue, alongside Titanium Gray and Titanium Silver.
+Nickolas is always excited about tech and getting his hands on it. Writing for him can vary from delivering the latest tech story to scribbling in his journal. When Nickolas isn't hitting a story, he's often grinding away at a game or chilling with a book in his hand.
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

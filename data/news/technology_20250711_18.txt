@@ -1,0 +1,12 @@
+TITLE: Apple's 'Presto' Wireless Update Tech May Soon Reach the Mac
+SOURCE: MacRumors
+URL: https://www.macrumors.com/2025/07/09/apple-presto-mac-update/
+
+Apple is able to wirelessly update iPhones that are still in the box using a proprietary system called "Presto," and now 9to5Mac claims that the technology is going to be expanded to the Mac.
+With P… [+829 chars]
+
+FULL CONTENT:
+Apple is able to wirelessly update iPhones that are still in the box using a proprietary system called "Presto," and now 9to5Mac claims that the technology is going to be expanded to the Mac.
+With Presto, Apple Store employees can place a sealed iPhone box on the Presto shelf. The ‌iPhone‌ then turns on, and the software the ‌iPhone‌ is running is updated to the latest available version. The process takes between 15 and 30 minutes, and it allows iPhones be updated to Apple's newest software before being sold to a customer.
+There are hints of a similar Presto option for the Mac in the third beta of macOS Tahoe. As with the ‌iPhone‌, Macs could be updated to the newest software ahead of when they're sold, which would prevent customers from having to do day-one updates after purchasing a product.
+It's not clear how a Presto for Mac feature would work, given that the ‌iPhone‌ version relies on NFC and Macs don't have an NFC chip inside, nor is it known when the functionality could roll out to Apple's retail stores.
