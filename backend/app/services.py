@@ -10,8 +10,8 @@ from datetime import datetime
 
 
 # --- Constants ---
-INDEX_PATH = "faiss_index.bin"
-DOC_CHUNKS_PATH = "doc_chunks.pkl"
+INDEX_PATH = "../faiss_index.bin"
+DOC_CHUNKS_PATH = "../doc_chunks.pkl"
 MODEL_NAME = "BAAI/bge-small-en-v1.5"
 OLLAMA_MODEL = "qwen3:8b"
 # ---------------------
