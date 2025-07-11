@@ -57,6 +57,5 @@ build/
 .DS_Store
 
 # Project specific
-faiss_index.bin
-doc_chunks.pkl
+
 *.log

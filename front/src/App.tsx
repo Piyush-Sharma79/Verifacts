@@ -421,22 +421,39 @@ function App() {
       `}</style>
 
       <div className="container mx-auto px-4 py-12">
-        <header className="flex justify-between items-center mb-24">
-          <div className="flex items-center space-x-3">
-            <span className="material-icons text-4xl text-[var(--accent-blue)]">fact_check</span>
-            <h1 className="text-3xl font-bold text-[var(--text-primary)]">VeriFact</h1>
-          </div>
-          <div className="flex items-center space-x-4 text-sm font-medium">
-            <div className="flex items-center space-x-2 text-[var(--text-secondary)]">
-              <div className="w-3 h-3 rounded-full bg-[var(--accent-green)] animate-pulse"></div>
-              <span>AI System Active</span>
+        <header className="flex flex-col space-y-6 mb-24">
+          <div className="flex justify-between items-center">
+            <div className="flex items-center space-x-3">
+              <div className="w-12 h-12 rounded-full bg-[var(--accent-blue)] flex items-center justify-center text-white text-xl font-bold">VF</div>
+              <h1 className="text-3xl font-bold text-[var(--text-primary)]">VeriFact</h1>
             </div>
-            {knowledgeStats && (
-              <div className="bg-blue-50 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
-                {knowledgeStats.total_documents || 0} documents in knowledge base
+            <div className="flex items-center space-x-4 text-sm font-medium">
+              <div className="flex items-center space-x-2 text-[var(--text-secondary)]">
+                <div className="w-3 h-3 rounded-full bg-[var(--accent-green)] animate-pulse"></div>
+                <span>AI System Active</span>
               </div>
-            )}
+              {knowledgeStats && (
+                <div className="bg-blue-50 text-blue-800 px-3 py-1 rounded-full text-xs font-medium">
+                  {knowledgeStats.total_documents || 0} documents in knowledge base
+                </div>
+              )}
+            </div>
           </div>
+
+          <nav className="flex justify-center space-x-8 border-b border-[var(--neutral-light)] pb-4">
+            <a href="#fact-checker" className="text-[var(--accent-blue)] font-medium hover:opacity-80 flex items-center space-x-2">
+              <span className="material-icons text-sm">fact_check</span>
+              <span>Fact Checker</span>
+            </a>
+            <a href="#how-it-works" className="text-[var(--text-secondary)] hover:text-[var(--accent-blue)] transition-colors flex items-center space-x-2">
+              <span className="material-icons text-sm">info</span>
+              <span>How It Works</span>
+            </a>
+            <a href="#about" className="text-[var(--text-secondary)] hover:text-[var(--accent-blue)] transition-colors flex items-center space-x-2">
+              <span className="material-icons text-sm">emoji_events</span>
+              <span>Hackathon</span>
+            </a>
+          </nav>
         </header>
 
         <main className="space-y-24">
@@ -499,65 +516,63 @@ function App() {
             </div>
           </section>
 
-          {/* Process Section with ref */}
-          {(isLoading || result) && (
-            <section id="process" ref={processRef}>
-              <div className="card relative overflow-hidden">
-                <div className="text-center mb-10">
-                  <h2 className="text-3xl font-bold mb-2">How It Works</h2>
-                  <p className="text-[var(--text-secondary)]">Our AI follows a meticulous process to ensure accuracy and transparency.</p>
-                </div>
-
-                <div className="flex flex-col md:flex-row justify-between items-start md:items-center relative px-8">
-                  {WORKFLOW_STEPS.map((step, index) => {
-                    const isActive = activeStep === step.id;
-                    const isCompleted = completedSteps.includes(step.id);
-                    const isLast = index === WORKFLOW_STEPS.length - 1;
-
-                    // Color based on state
-                    const nodeColor = isActive ? 'text-blue-500 border-blue-500' :
-                                     isCompleted ? 'text-green-500 border-green-500' :
-                                     'text-gray-400 border-gray-300';
-
-                    return (
-                      <div key={step.id} className="flex flex-col items-center mb-8 md:mb-0 relative z-10">
-                        <div className={`flow-node ${isActive ? 'flow-node-active' : ''}`}>
-                          <div className={`flow-node-inner border-2 ${nodeColor}`}>
-                            {isCompleted ? (
-                              <span className="material-icons text-green-500">check_circle</span>
-                            ) : isActive ? (
-                              <span className="material-icons text-blue-500 animate-spin" style={{ animationDuration: '3s' }}>autorenew</span>
-                            ) : (
-                              <span className="material-icons text-gray-400">{step.icon}</span>
-                            )}
-                          </div>
-                        </div>
-
-                        <div className="mt-3 text-center w-39">
-                          <p className={`font-semibold ${isActive ? 'text-blue-600' : isCompleted ? 'text-green-600' : 'text-gray-500'}`}>
-                            {step.label}
-                          </p>
-                          <p className="text-xs text-gray-500 mt-1">{step.description}</p>
-                        </div>
-
-                        {!isLast && (
-                          <div className="hidden md:block absolute top-7 left-[70px] w-[calc(100%+30px)] h-[2px]">
-                            <div className={`h-full ${isCompleted ? 'bg-green-500' : 'bg-gray-300'} transition-all duration-500`}></div>
-                          </div>
-                        )}
-                      </div>
-                    );
-                  })}
-                </div>
-
-                {result?.process_time && (
-                  <div className="text-center mt-8 text-sm text-[var(--text-secondary)]">
-                    Process completed in {result.process_time.toFixed(2)} seconds
-                  </div>
-                )}
+          {/* How It Works Section */}
+          <section id="how-it-works" ref={processRef} className={!isLoading && !result ? "pt-16" : ""}>
+            <div className="card relative overflow-hidden">
+              <div className="text-center mb-10">
+                <h2 className="text-3xl font-bold mb-2">How It Works</h2>
+                <p className="text-[var(--text-secondary)]">Our AI follows a meticulous process to ensure accuracy and transparency.</p>
               </div>
-            </section>
-          )}
+
+              <div className="flex flex-col md:flex-row justify-between items-start md:items-center relative px-8">
+                {WORKFLOW_STEPS.map((step, index) => {
+                  const isActive = activeStep === step.id;
+                  const isCompleted = completedSteps.includes(step.id);
+                  const isLast = index === WORKFLOW_STEPS.length - 1;
+
+                  // Color based on state
+                  const nodeColor = isActive ? 'text-blue-500 border-blue-500' :
+                                   isCompleted ? 'text-green-500 border-green-500' :
+                                   'text-gray-400 border-gray-300';
+
+                  return (
+                    <div key={step.id} className="flex flex-col items-center mb-8 md:mb-0 relative z-10">
+                      <div className={`flow-node ${isActive ? 'flow-node-active' : ''}`}>
+                        <div className={`flow-node-inner border-2 ${nodeColor}`}>
+                          {isCompleted ? (
+                            <span className="material-icons text-green-500">check_circle</span>
+                          ) : isActive ? (
+                            <span className="material-icons text-blue-500 animate-spin" style={{ animationDuration: '3s' }}>autorenew</span>
+                          ) : (
+                            <span className="material-icons text-gray-400">{step.icon}</span>
+                          )}
+                        </div>
+                      </div>
+
+                      <div className="mt-3 text-center w-39">
+                        <p className={`font-semibold ${isActive ? 'text-blue-600' : isCompleted ? 'text-green-600' : 'text-gray-500'}`}>
+                          {step.label}
+                        </p>
+                        <p className="text-xs text-gray-500 mt-1">{step.description}</p>
+                      </div>
+
+                      {!isLast && (
+                        <div className="hidden md:block absolute top-7 left-[70px] w-[calc(100%+30px)] h-[2px]">
+                          <div className={`h-full ${isCompleted ? 'bg-green-500' : 'bg-gray-300'} transition-all duration-500`}></div>
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+
+              {result?.process_time && (
+                <div className="text-center mt-8 text-sm text-[var(--text-secondary)]">
+                  Process completed in {result.process_time.toFixed(2)} seconds
+                </div>
+              )}
+            </div>
+          </section>
 
           {/* Results Section with ref */}
           {result && !isLoading && (
@@ -739,6 +754,77 @@ function App() {
             </div>
           </section>
         </main>
+
+                {/* Hackathon Information Section */}
+        <section id="about" className="pt-24">
+          <div className="card">
+            <div className="flex items-center justify-center mb-8">
+              <div className="bg-[var(--accent-blue)] text-white text-3xl font-bold h-16 w-16 rounded-full flex items-center justify-center mr-3">VF</div>
+              <h2 className="text-4xl font-bold">VeriFact</h2>
+            </div>
+
+            <div className="text-center mb-12">
+              <h3 className="text-2xl font-bold mb-2">Real-Time AI Fact-Checker Powered by RAG</h3>
+              <p className="text-[var(--text-secondary)]">DeepDive 1.0 – Round 2: Reliable Knowledge – Fact-Checking & Research</p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+              <div>
+                <h4 className="text-xl font-bold mb-3 text-[var(--accent-blue)]">The Problem</h4>
+                <p className="text-[var(--text-secondary)] mb-4">
+                  The constant stream of content across social media and digital news platforms increases exposure to
+                  misinformation. Readers often encounter viral claims without a convenient way to verify them. Manual fact-checking
+                  is time-intensive and inaccessible for most users.
+                </p>
+
+                <h4 className="text-xl font-bold mb-3 text-[var(--accent-blue)]">Our Solution</h4>
+                <p className="text-[var(--text-secondary)] mb-4">
+                  VeriFact is a real-time AI chatbot that identifies and verifies factual claims in user-submitted content. Using
+                  Retrieval-Augmented Generation (RAG), it analyzes the input, searches reliable sources such as Wikipedia
+                  and news APIs, and returns a concise verdict backed by references.
+                </p>
+
+                <h4 className="text-xl font-bold mb-3 text-[var(--accent-blue)]">Impact</h4>
+                <ul className="list-disc pl-5 text-[var(--text-secondary)] space-y-1">
+                  <li>Makes fact-checking accessible and instant for any reader or user</li>
+                  <li>Encourages responsible content sharing by offering real-time evidence</li>
+                  <li>Scales across use cases including journalism, social media, and education</li>
+                </ul>
+              </div>
+
+              <div>
+                <h4 className="text-xl font-bold mb-3 text-[var(--accent-blue)]">Key Features</h4>
+                <ul className="list-disc pl-5 text-[var(--text-secondary)] space-y-2 mb-6">
+                  <li>Named Entity and Claim Extraction</li>
+                  <li>LangChain-driven RAG pipeline using FAISS vector storage</li>
+                  <li>Qwen3 reasoning engine for verdicts</li>
+                  <li>Evidence display with source citations</li>
+                  <li>Confidence indicators when evidence is weak, contradictory, or missing</li>
+                </ul>
+
+                <h4 className="text-xl font-bold mb-3 text-[var(--accent-blue)]">Technology Stack</h4>
+                <div className="grid grid-cols-2 gap-3">
+                  <div className="bg-[var(--bg-color)] p-3 rounded-lg neumorphic-shadow-inset">
+                    <p className="font-bold text-sm">Frontend</p>
+                    <p className="text-sm text-[var(--text-secondary)]">React with TailwindCSS</p>
+                  </div>
+                  <div className="bg-[var(--bg-color)] p-3 rounded-lg neumorphic-shadow-inset">
+                    <p className="font-bold text-sm">Backend</p>
+                    <p className="text-sm text-[var(--text-secondary)]">FastAPI (Python)</p>
+                  </div>
+                  <div className="bg-[var(--bg-color)] p-3 rounded-lg neumorphic-shadow-inset">
+                    <p className="font-bold text-sm">LLM Engine</p>
+                    <p className="text-sm text-[var(--text-secondary)]">Qwen3 via Ollama</p>
+                  </div>
+                  <div className="bg-[var(--bg-color)] p-3 rounded-lg neumorphic-shadow-inset">
+                    <p className="font-bold text-sm">Retrieval</p>
+                    <p className="text-sm text-[var(--text-secondary)]">FAISS with LangChain</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
         <footer className="text-center mt-24 text-sm text-[var(--text-secondary)] space-y-1">
           <p>Built for the 2025 AI Hackathon</p>
