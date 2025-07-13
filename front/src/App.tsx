@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 
 // API endpoint
@@ -7,10 +7,10 @@ const API_URL = 'https://f84309bafbdb.ngrok-free.app';
 // Example facts users can try
 const EXAMPLE_FACTS = [
   "The Eiffel Tower is 330 meters tall.",
-  "Big Ben is the name of the clock tower in London.",
+  "Air India crash happened due to pilot error fuel switch cutoff",
   "The Statue of Liberty was a gift from France to the United States.",
   "The Great Wall of China is visible from space.",
-  "Mount Everest is the tallest mountain in the world."
+  "google has aquired the company called windsurf"
 ];
 
 // Enhanced interfaces for the new API response format
@@ -168,76 +168,6 @@ function App() {
     setClaimText(fact);
   };
 
-  // Process verdict to remove thinking process and format
-  const processVerdict = (verdict: string | VerdictInfo) => {
-    // If verdict is a string (old format), clean it up
-    if (typeof verdict === 'string') {
-      return verdict.replace(/<think>[\s\S]*?<\/think>/g, '').trim();
-    }
-
-    // Otherwise, it's already the new structured format
-    return verdict;
-  };
-
-  // Format verdict text with proper styling
-  const formatVerdictText = (verdict: string | VerdictInfo) => {
-    // Handle string format (backward compatibility)
-    if (typeof verdict === 'string') {
-      return verdict
-        .split('\n')
-        .map(line => line.trim())
-        .filter(line => line.length > 0)
-        .map((line, index) => {
-          if (line.startsWith('Verdict:')) {
-            return <h4 key={index} className="text-xl font-bold mb-3">{line}</h4>;
-          } else if (line.startsWith('Explanation:')) {
-            return <p key={index} className="font-medium mb-3" dangerouslySetInnerHTML={{ __html: line.replace('Explanation:', '<span class="font-bold">Explanation:</span>') }} />;
-          } else if (line.startsWith('Sources:')) {
-            return <p key={index} className="text-sm italic text-slate-600 mt-2">{line}</p>;
-          } else {
-            return <p key={index} className="mb-2">{line}</p>;
-          }
-        });
-    }
-
-    // Handle new structured format
-    const elements = [];
-
-    // Add verdict
-    elements.push(
-      <h4 key="verdict" className="text-xl font-bold mb-3">
-        Verdict: {verdict.verdict}
-      </h4>
-    );
-
-    // Add explanation
-    elements.push(
-      <p key="explanation" className="font-medium mb-3">
-        <span className="font-bold">Explanation:</span> {verdict.explanation}
-      </p>
-    );
-
-    // Add sources if available
-    if (verdict.sources) {
-      elements.push(
-        <p key="sources" className="text-sm italic text-slate-600 mt-2">
-          <span className="font-bold">Sources:</span> {verdict.sources}
-        </p>
-      );
-    }
-
-    return elements;
-  };
-
-  // Determine verdict status for styling
-  const getVerdictStatus = (verdict: string | VerdictInfo) => {
-    const verdictText = typeof verdict === 'string' ? verdict.toLowerCase() : verdict.verdict.toLowerCase();
-
-    if (verdictText.includes('supported')) return 'verdict-supported';
-    if (verdictText.includes('refuted')) return 'verdict-refuted';
-    if (verdictText.includes('not enough')) return 'verdict-uncertain';
-    return 'verdict-uncertain'; // uncertain
-  };
 
   // Get confidence indicator class
   const getConfidenceClass = (confidence: string) => {
@@ -464,6 +394,7 @@ function App() {
             <div className="text-center max-w-2xl mx-auto">
               <h2 className="text-5xl font-extrabold text-[var(--text-primary)] mb-4">Uncover the Truth.</h2>
               <p className="text-lg text-[var(--text-secondary)] mb-8">Just type a claim, and our AI will search, analyze, and deliver a verdict in seconds.</p>
+              <p className="text-lg text-[var(--text-secondary)] mb-8">To start the server contact sharma1935piyush@gmail.com</p>
             </div>
 
             <div className="card max-w-3xl mx-auto">
