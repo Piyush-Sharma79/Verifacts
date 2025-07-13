@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import './App.css';
 
 // API endpoint
-const API_URL = 'http://127.0.0.1:8000';
+const API_URL = 'https://f84309bafbdb.ngrok-free.app';
 
 // Example facts users can try
 const EXAMPLE_FACTS = [
