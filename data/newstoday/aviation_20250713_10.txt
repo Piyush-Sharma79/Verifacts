@@ -1,0 +1,25 @@
+TITLE: What are the engine fuel control switches at centre of Air India crash probe?
+SOURCE: CBC News
+URL: https://www.cbc.ca/news/world/air-india-crash-probe-fuel-switches-1.7583682
+
+The preliminary report from investigators probing the Air India crash that killed 260 people showed that seconds after takeoff, the plane's engine fuel control switches were switched off briefly, sta… [+3074 chars]
+
+FULL CONTENT:
+The preliminary report from investigators probing the Air India crash that killed 260 people showed that seconds after takeoff, the plane's engine fuel control switches were switched off briefly, starving them of fuel.
+As a result, the Boeing 787 Dreamliner bound for London from the Indian city of Ahmedabad on June 12, immediately began to lose thrust and sink down, according to the report on the world's deadliest aviation accident in a decade, released on Saturday by India's Aircraft Accident Investigation Bureau (AAIB).
+Below are a few facts about the switches, their functions in the aircraft and their movements on the Air India flight.
+Fuel control switches regulate fuel flow into a plane's engines. They are used by pilots to start or shut down engines on the ground or to manually shut down or restart engines if an engine failure occurs during a flight.
+The switches are most often used to turn engines off once a plane has arrived at its airport gate and in certain emergency situations, such as an engine fire. The report does not indicate there was any emergency requiring an engine cutoff.
+Aviation experts say a pilot would not be able to accidentally move the fuel switches that feed the engines. But if moved, the effect would be immediate, cutting off engine power.
+There are independent power systems and wiring for the fuel cutoff switches and the fuel valves controlled by those switches, according to U.S. aviation safety expert John Cox.
+The two fuel control switches on a 787, in Air India's case equipped with two GE engines, are located below the thrust levers.
+The switches are spring-loaded to remain in position. There are two modes: cutoff and run.
+To change a switch from run to cutoff, a pilot has to first pull it up and then move it from run to cutoff or vice versa.
+According to the flight recorder, a few seconds after takeoff, switches for both engines transitioned to cutoff from run one after the other with a time gap of one second. As a result, the engines began to lose power.
+One pilot was heard on the cockpit voice recorder asking the other why he cut off the fuel. "The other pilot responded that he did not do so," the report said.
+It did not identify which remarks were made by the flight's captain and which by the first officer.
+Seconds later, the switches flipped back to run, according to the preliminary report, which also noted that both fuel control switches were found in the run position at the crash site.
+When fuel control switches are moved from cutoff to run while the aircraft is in flight, each engine's control system automatically manages a relight and thrust recovery sequence of ignition and fuel introduction, the report said.
+"No sane pilot would ever turn those switches off in flight," especially as the plane is just starting to climb, said U.S. aviation safety expert John Nance.
+The AAIB, an office under India's Civil Aviation Ministry, is leading the probe into the crash, which killed all but one of the 242 people on board and 19 others on the ground.
+Air India acknowledged the report in a statement, saying it was co-operating with Indian authorities, but declined further comment.

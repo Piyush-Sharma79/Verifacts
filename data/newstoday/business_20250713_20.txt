@@ -1,0 +1,27 @@
+TITLE: Anam builds digital humans that can have lifelike conversations. Read the pitch deck that it used to raise $9 million.
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/anam-pitch-deck-ai-human-avatar-startup-9-million-redpoint-2025-7
+
+Anam cofounders Ben Carr and Caoimhe Murphy hail from Scotland and Ireland and previously worked together at Synthesia.Anam
+Anam, an AI startup building digital humans that can have lifelike conversations, has raised $9 million in seed funding.
+Redpoint Ventures, with participation from SV Angel, led the latest round. Anam, founded in October 2023 and named for the Irish word for "soul," had previously raised a $2.3 million pre-seed led by Concept Ventures.
+Today, Anam has 2,000 clients ranging across education, sales, customer support, healthcare, and beyond. The hair brand Schwarzkopf uses Anam as an education tool for stylists, for instance, while language learning platform Preply uses it to simulate learning environments.
+Other competitors like Tavus and HeyGen are also trying to solve what is a vastly difficult technical problem, Anam cofounder and CEO Caoimhe Murphy told Business Insider — from flawless lip syncing to realistic facial movement to near-immediate response times to the ability to scale to hundreds of thousands of users.
+"There's no real winner right now," she said of the race to build the highest quality product. "That's why the market's so exciting."
+Anam generates every pixel of its avatars, Murphy said, as opposed to how other rivals may only partially generate avatars or use a video on loop and just dub the mouth.
+"That's where real expressivity and natural conversation comes through," she said.
+The company recently released a feature called One-Shot, which can generate an AI persona from a photograph in minutes.
+Murphy and Ben Carr, Anam's cofounder and CTO, previously worked together at AI video unicorn Synthesia. Murphy worked in sales, and Carr worked as an AI research engineer.
+Anam has 16 employees and is tracking $5 million in revenue this year, Murphy said. It makes money by charging per minute of conversation.
+"They're building the next interface layer between humans and machines," Redpoint partner Meera Clark said in a statement.
+Here's a look at the pitch deck Anam used to raise $9 million in seed funding. A slide has been redacted to share the deck publicly.
+
+
+
+
+
+
+
+
+
+Jump to

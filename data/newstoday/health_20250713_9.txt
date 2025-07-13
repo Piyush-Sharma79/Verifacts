@@ -1,0 +1,43 @@
+TITLE: I switched from PR to health tech with no engineering or medical experience. Here's how I overcame impostor syndrome.
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/switched-pr-tech-no-experience-overcame-impostor-syndrome-2025-7
+
+Filipp Egorov.Courtesy of Oumua
+This as-told-to essay is based on a conversation with Filipp Egorov, the 34-year-old CEO & founder of Oumua Inc. It has been edited for length and clarity.
+I began my career as a high-tech and public communications manager. From brand image to landing customers to resuscitating operations to elevating presence, I was a multifaceted professional.
+As much as I loved working for founders and bringing their ideas to life, I gradually realized that my real passion was piloting my own business. I wanted to serve myself, and I dreamed of building my own consumer tech gadgets.
+The COVID-19 pandemic pushed me even more to launch Blanc, a full-face anti-COVID-19 mask with adjustable front panels and visors. I left my last PR job and dove into the world of consumer tech with no experience.
+I received a degree in hi-tech management that focused on finance, marketing, business operations, HR, and IT. I never studied engineering, physics, programming, or medicine.
+My first job was as a PR manager for an IT company while I was still a student. I graduated from university in 2013 and continued working in PR.
+For the next few years, I started researching the engineering field but had impostor syndrome. I was considering a pivot but didn't make any moves yet.
+I started working on a new business idea on the side, which made me feel alive and bold. I took it as a sign that these uncomfortable emotions were needed to drive me forward.
+I had no expertise whatsoever in product conceptualization, design, prototyping, or manufacturing. I only had a promising idea and a lot of optimism.
+I built a small squad of people, including several engineers, PCB architects, and sourcing specialists. We had to learn everything on the job without any guidance, and we failed in manufacturing.
+We were novice first-time hardware founders, and hardware has extremely little tolerance for errors of any kind. Additionally, since we were working through a pandemic, global logistics collapsed, and our first batch of masks was undeliverable.
+We lacked the funding necessary to address the numerous product defects and move on to the next iteration. I wasn't motivated enough to attempt again after the first failure, which put me close to personal bankruptcy.
+After a difficult year of trying to save money and finally letting it go, I was prepared to give up and never develop a physical product again.
+As a lifelong asthmatic, no tool, pill, exercise, or equipment worked well for me. After trying many things to soothe my symptoms, I determined the best way was respiratory muscle training, also known as RMT.
+I tried and tested many "breathing trainer" devices. I found all of them to be bulky without changeable resistance, aesthetically unpleasing, and lacking features for breathing instructions and progress.
+I created a blueprint of all the refinements and enhancements an ideal breathing trainer must have and started Oumua in 2021. It's an AI-powered breathing trainer that assists people with living longer, happier, and better lives.
+Oumua is now a successful 7-figure company.
+Knowledge also helps increase confidence when you're struggling with impostor syndrome. I had to learn almost everything to create tangible products that people would want to purchase.
+Through Coursera, I taught myself the JSX, React, JavaScript, and CSS programming stack, engineering design (CAD and other tools), and UX/UI. I took one-on-one classes from Preply.
+Among the many books I read were "Fundamentals" by Samer Buna and "Beginner's Guide to React" by Kent Dodds. I watched instructional videos on YouTube and learned about LLMs.
+I gained knowledge about the hardware industry from Carl Pei of Nothing, Frank Wang of DJI, Pavlo Zhovner, founder of Flipper, and Andrey Manirko, founder of Playtronica.
+Learning new skills that take time has taught me to extend grace to myself when needed. It's OK if you aren't naturally brilliant at everything. Know your strengths and weaknesses, and don't judge yourself for having weaknesses, but prepare a plan to address them.
+I hired a team and delegated tasks I didn't excel in. I focused on refining my competence in the areas I was already good at.
+There are some mental mantras that I repeated to myself throughout this journey to shift my perspective in a direction that was expansion-oriented:
+My experience built my business intuition and served as the catalyst for my own metamorphosis into a hardware creator.
+I'd advise against leaving your job unless you've saved enough to take this action. Before I quit my PR job, I had about six months' worth of my salary to develop my concept into a practical prototype.
+Because I intended to create a medical device that could diagnose, prevent, and even cure, this second tech gadget was twice as difficult to construct. Oumua has five more noninvasive medical devices in the research and development and prototyping stages.
+"Who do you think you are?" is the first question you ask yourself every morning when you don't have the highly specialized degree needed for a certain product. The key is to disregard this question for a year or two.
+
+
+
+
+
+
+
+
+
+Jump to

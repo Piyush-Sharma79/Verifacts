@@ -1,0 +1,22 @@
+TITLE: US senators warn Nvidia CEO about upcoming China trip
+SOURCE: Yahoo Entertainment
+URL: https://finance.yahoo.com/news/us-senators-warn-nvidia-ceo-190255991.html
+
+By Max A. Cherney
+SAN FRANCISCO (Reuters) -A bipartisan pair of U.S. senators sent a letter to Nvidia CEO Jensen Huang on Friday about an upcoming trip to China, warning the CEO to refrain from meet… [+2159 chars]
+
+FULL CONTENT:
+By Max A. Cherney
+SAN FRANCISCO (Reuters) -A bipartisan pair of U.S. senators sent a letter to Nvidia CEO Jensen Huang on Friday about an upcoming trip to China, warning the CEO to refrain from meeting with companies that are suspected of undermining U.S. chip export controls.
+The letter from Republican Senator Jim Banks and Democratic Senator Elizabeth Warren asked Huang to also abstain from meeting with representatives of companies that are working with the People's Republic of China's military or intelligence bodies. The senators also asked Huang to refrain from meeting with entities named on the U.S. restricted export list.
+"We are worried that your trip to the PRC could legitimize companies that cooperate closely with the Chinese military or involve discussing exploitable gaps in U.S. export controls," the senators wrote.
+Huang planned to visit China on Friday.
+An Nvidia spokesperson said, "American wins" when its technology sets "the global standard," and that China has one of the largest bodies of software developers in the world. AI software "should run best on the U.S. technology stack, encouraging nations worldwide to choose America," the spokesperson said.
+In May at the Computex trade show in Taipei, Huang praised President Donald Trump's decision to scrap some artificial intelligence chip export controls and described the prior diffusion rules as a failure.
+U.S. restrictions in April on AI chips Nvidia modified to comply with export controls to China would reduce Nvidia's revenue by $15 billion, the CEO said.
+The hardware necessary to power advanced AI is now subject to a bipartisan consensus related to the free export of such hardware, the senators wrote. Advanced AI hardware could "accelerate the PRC's effort to modernize its military," the letter reads.
+U.S. lawmakers have grown increasingly concerned about efforts to circumvent export controls to China and proposed a law that would force AI chip companies to verify the location of their products.
+Last month, Reuters reported that a senior U.S. official said the AI firm DeepSeek is aiding China's military and intelligence operations, and sought to use shell companies to circumvent U.S. AI chip export controls to China.
+Nvidia is planning to launch a cheaper version of its flagship Blackwell AI chips for China, Reuters reported in May.
+The senators said in the letter they had previously expressed concern that Nvidia's actions could support the AI and chip industries in China and cited Nvidia's new research facility in Shanghai as an example.
+(Reporting by Max A. Cherney in San FranciscoEditing by Rod Nickel)

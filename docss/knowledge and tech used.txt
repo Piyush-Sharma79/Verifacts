@@ -1,0 +1,27 @@
+Great clarity on your current knowledge. You already have strong foundations in core ML, supervised/unsupervised algorithms, activation functions, and deep learning models with backpropagation. For building VeriFact and general advanced AI apps like this, here’s what you need to focus on next, in logical order:
+
+✅ 1. Transformers & LLM Fundamentals (if not covered practically)
+Understand: Encoder-decoder architecture, self-attention, positional encoding.
+
+Practice: Loading and using pre-trained transformer models via Hugging Face.
+
+Goal: Comfort with embeddings, tokenization, prompt engineering, and model outputs.
+
+✅ 2. Retrieval-Augmented Generation (RAG)
+Understand RAG theory: Combining dense retrieval with generation for grounded responses.
+
+Key parts:\n - Vector databases: (FAISS, Chroma) – storing embeddings for fast similarity search.\n - Embeddings: Generating them using models like BERT, Sentence Transformers.\n - Retriever-Reader pipeline: Using LangChain or Haystack to orchestrate retrieval + generation.\n\n🔖 Learn:\n- RAG implementation basics (Hugging Face RAG docs, LangChain tutorials)\n- When to use vs. standard LLM prompting\n\n📌 Why important here: VeriFact must retrieve real evidence from Wikipedia/news before generating verdicts.
+
+✅ 3. LangChain
+Understand LangChain’s modular design: Chains, Agents, Tools, Memory.
+
+Practice:\n - Building a simple retrieval QA chain.\n - Connecting to external APIs and vector stores.\n - Using LangChain’s prompt templates effectively.\n\n🔖 Learn:\n- LangChain docs quickstart and RAG pipelines.\n- Sample projects (e.g. document QA, summarization chains).
+
+✅ 4. Vector Databases
+FAISS: Local, high-speed vector database for embeddings.\n- Chroma: Serverless alternative, integrates easily with LangChain.\n\n🔖 Learn:\n- How to create an index, add vectors, query by similarity.\n- Trade-offs between FAISS (fast, local) and cloud stores (Weaviate, Pinecone).
+
+✅ 5. Prompt Engineering
+Practice writing effective prompts for verdict generation.\n- Focus on:\n - Combining multiple retrieved snippets into one prompt.\n - Formatting outputs for clarity and citations.
+
+✅ Optional: Advanced (For Future)
+Fine-tuning models (RAG or LLM) for domain-specific accuracy.\n- Serving quantized models locally using llama.cpp for cost savings.\n- LangGraph (LangChain extension) for complex multi-step workflows.

@@ -1,0 +1,26 @@
+TITLE: This ‘Molecular Shield’ Might Stop Pollen Before It Wrecks Your Nose
+SOURCE: Gizmodo.com
+URL: https://gizmodo.com/this-molecular-shield-might-stop-pollen-before-it-wrecks-your-nose-2000627787
+
+Every year, pollen seasons grow longer and more intenseto the great misery of those suffering from pollen allergiesmyself included. Theres only so much one can do with antihistamines or hot towels, a… [+3784 chars]
+
+FULL CONTENT:
+Every year, pollen seasons grow longer and more intense—to the great misery of those suffering from pollen allergies—myself included. There’s only so much one can do with antihistamines or hot towels, and no amount of protective measures—masks, firmly shut windows, you name it—appears to offer any protection from the endless sneezing, runny noses, and itchy eyes.
+But what if, by spraying something akin to a nasal spray, you could thwart the onslaught of those pesky allergens before they latch onto your sensitive nasal passages?
+This was the “simple but powerful idea” that inspired Kaissar Tabynov, who led the efforts to create a “molecular shield” that intercepts allergens the moment they approach our airways. For the experiment, they targeted mugwort pollen, which is the most common cause of pollen allergy in Central Asia and Europe. Tabynov and colleagues reported the first proof-of-principle for this technology, in this instance with mice, in a paper published today in Frontiers in Immunology.
+“Allergies are often viewed as inconvenient but minor conditions, yet for millions, they severely reduce quality of life and can even be life-threatening,” Tabynov, director of the International Center for Vaccinology at Kazakh National Agrarian Research University in Kazakhstan, told Gizmodo in an email. “We believe this could be the beginning of a new class of anti-allergy interventions—smart, fast, and easy to use—that could protect people during allergy season in a way no existing therapy does.”
+Here’s how the “shield” works. Researchers first develop a monoclonal antibody, or a lab-made protein designed to attach to a specific molecule. In this case it’s aimed at a major allergy-causing protein found in mugwort pollen. These antibodies are applied to the nose, effectively snatching the allergens away from our natural antibodies, which trigger allergic responses when bound with allergens.
+The immune system is an intricate network of cells and hormones, so adjusting the treatment such that it wouldn’t disrupt the natural system of mice proved to be a major challenge, explained Tabynov. Not only that, mugwort pollen is actually a combination of multiple allergy-causing particles (partly the reason they’re so insufferable), meaning Tabynov’s team had to focus on the most clinically relevant parts of the allergen complex.
+After several adjustments, the team succeeded in making an antibody treatment that curbed nasal inflammation and asthma symptoms in mice, and it did so without harming the animals’ natural antibodies. Although the duration of the treatment was shorter than Tabynov hoped, he told Gizmodo that he and his team have already devised a strategy to potentially make the treatment last longer.
+“What’s exciting about our approach is that it shows how precise, targeted biologics can be used not just for chronic therapy but for prevention, delivered right where allergens strike,” Tabynov added. “Our approach is non-invasive, needle-free, and fast-acting [and] reduces the allergen load on the immune system and may help prevent the progression of allergic rhinitis into more severe conditions such as bronchial asthma.”
+As fellow pollen allergy sufferers are aware, allergic reactions tend to set off a chain reaction of misery throughout the body. The idea of blocking allergens before they ever reach the nose would be a huge relief for many patients, especially those with medical complications that prevent them from taking standard antihistamine pills. It’d also be a time-saving, cheaper alternative to immunotherapy sessions, which can take years to have any effect.
+So, is this something we’ll be picking up at a local pharmacy any time soon? Depends. Tabynov’s most optimistic estimate is that the first human-based studies could happen within two to three years. Additional adjustments will be needed to extend the treatment’s protective effects on human nasal surfaces. But for lifelong pollen patients, it sounds like a promising start.
+allergybioengineering
+Get the best tech, science, and culture news in your inbox daily.
+News from the future, delivered to your present.
+Please select your desired newsletters and submit your email to upgrade your inbox.
+These sensors could improve food and drug monitoring, the researchers say.
+The world’s tiniest animal somehow got more hardcore.
+Researchers have identified a compound that could block certain life-threatening and hard-to-treat allergic reactions.
+Biological tooth substitutes could provide better alternatives to dentures and titanium implants.
+New data collected by the FDA has found that montelukast can bind to brain cells, which may explain the risk of mental health adverse effects linked to its use.

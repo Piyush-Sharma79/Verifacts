@@ -9,7 +9,7 @@ from sentence_transformers import SentenceTransformer
 from datetime import datetime
 
 # --- Configuration ---
-DATA_DIRS = ["data", "data/wiki", "data/news"]
+DATA_DIRS = ["data", "data/wiki", "data/news", "data/newstoday"]
 INDEX_PATH = "faiss_index.bin"
 DOC_CHUNKS_PATH = "doc_chunks.pkl"
 MODEL_NAME = "BAAI/bge-small-en-v1.5"

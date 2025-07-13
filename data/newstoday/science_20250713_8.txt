@@ -1,0 +1,57 @@
+TITLE: As NASA's budget shrinks, Europe doubles down on Earth science: 'Climate change is the defining challenge of our generation'
+SOURCE: Space.com
+URL: https://www.space.com/science/climate-change/as-nasas-budget-shrinks-europe-doubles-down-on-earth-science-climate-change-is-the-defining-challenge-of-our-generation
+
+As climate extremes intensify and global tipping points loom, Earth science has never been more vital — but not everyone is treating it that way. 
+In the United States, NASA's science programs are f… [+9907 chars]
+
+FULL CONTENT:
+If NASA must pull back, Europe is ready to step up — and do so with open arms.
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+As climate extremes intensify and global tipping points loom, Earth science has never been more vital — but not everyone is treating it that way. In the United States, NASA's science programs are facing historic funding cuts. A new proposed federal budget slashes the agency's Earth science division by nearly half and downsizes its workforce by a third.
+Meanwhile, across the Atlantic, the European Space Agency (ESA) is taking the opposite approach. At the Living Planet Symposium 2025, held in Vienna, Austria, ESA leadership showcased the agency's ambitious forward-looking vision for Earth observation, one that extends not just to the next fiscal cycle but decades into the future.
+"Earth observation within the organization [ESA], agency is a major priority," said ESA Director General Josef Aschbacher during the ESA Living Planet 2025 opening ceremony.
+ESA is betting big on Earth — and it's a message many of us are thrilled to hear.
+In March 2025, the Trump administration released a proposed federal budget for fiscal year 2026 that shocked many in the scientific community. It called for a 24% overall cut to NASA's budget, including a 47% reduction in Earth science funding and significant staffing losses.
+"I don't think it is an overstatement to say that morale among U.S.-based scientists is at an all-time low," Sarah Horst, an associate professor in the Department of Earth and Planetary Sciences at The Johns Hopkins University in Maryland, previously told Space.com. "People are afraid for their jobs, their students, the projects they've often spent decades working on, and they are afraid for the future of the United States."
+The proposed budget would cancel several flagship missions and reduce NASA's ability to monitor wildfires, atmospheric carbon, sea-level rise, and extreme weather events — all during what scientists say is the most critical decade for climate action.
+Breaking space news, the latest updates on rocket launches, skywatching events and more!
+But the proposal is already facing pushback. In July, the U.S. Senate appropriations committee advanced a bill that would reject the 47% science cut, instead funding NASA at $24.9 billion and preserving key Earth and planetary missions. However, negotiations are ongoing, and the bill must still pass both chambers of Congress to take effect.
+While the outcome remains uncertain, the proposed cuts signal that climate-focused science faces an increasingly uncertain future in U.S. federal space policy.
+
+ESA, by contrast, is doubling down, and doing so with a clear sense of purpose and urgency.
+Space is for everyone
+Leaders at the Living Planet Symposium laid out a bold, long-term approach to Earth and climate science, centered on collaboration, innovation, and open access.
+"Climate change is the defining challenge of our generation, requiring us to transform observation into immediate action, the energy transition and sustainable development of our infrastructure demand reasonable steps from all of us," said Peter Hanke, Austrian Federal Minister of Innovation Mobility and Infrastructure, during the opening ceremony.
+"It is a good thing that we now have more powerful tools at our disposal than ever before."
+
+One of those tools is Copernicus, ESA's flagship Earth observation program. With a constellation of satellites continuously monitoring the planet, Copernicus has become the backbone of Europe's environmental data infrastructure.
+"Together, we have created Copernicus, a European Space infrastructure that has become the international gold standard for Earth observation," Hanke continued. "Copernicus satellites deliver more than 25 terabytes of data reliably and without interruption. This data is accessible to everyone, scientists, businesses, public institutions and citizens, because space is for everyone."
+ESA's upcoming missions will revolutionize climate science and Earth observation with new monitoring technologies and artificial intelligence (AI).
+First up, there's Biomass, a satellite that launched earlier this year and whose first images were revealed at the Living Planet Symposium. The mission will measure global forest carbon stocks using a massive radar antenna that can penetrate forest canopies — a first for space-based instruments. Then, Harmony, slated to launch in 2029, is a dual-satellite mission to monitor Earth's surface motion, glaciers, and ocean currents with stunning precision. In addition, six future Copernicus Expansion Missions aim to launch next-gen Sentinel satellites designed to track greenhouse gases, polar ice, air quality and more.
+Each mission is purpose-built to understand our planet's systems in real time, providing open-access data that informs everything from farming practices to disaster response.
+
+ESA's Earth science ambitions don't stop at new satellites; they extend to the digital revolution happening onboard them as well.
+New missions are being designed to process data directly in space using AI, quantum sensors and edge computing. That means satellites won't just collect data, they'll analyze it in real-time, making them faster and more efficient in responding to events on Earth.
+"We've been really making an effort in ESA and in Europe overall, trying to integrate more and more digital technologies into the traditional world of Earth observation," said Simonetta Cheli, ESA Director of Earth Observation, during the symposium's opening ceremony.
+Cheli pointed to one AI experiment already flying. "We launched last year an AI payload on the satellite Φ-sat-2. The onboard AI is designed to detect clouds and eliminate those images before downloading them with the clouds and it's working well," Cheli told Space.com in an interview.
+
+AI, Cheli noted, is rapidly becoming essential. "[AI is] one domain that will revolutionize our world, and we're trying to integrate it in our daily work."
+This evolution is front and center in ESA's 2040 Technology Strategy, which states that "AI-driven innovations will enable smarter, more efficient space operations." That vision isn't just shared within ESA: it's being championed at the highest levels of European policy.
+"Thanks to the digital revolution and artificial intelligence revolution, we want to offer world-class data, information and services," said Andrius Kubilius, European Commissioner for Defence and Space, during the symposium. "The 21st century will be the century of space — and along with it, a space revolution driven by AI."
+International collaboration is in the DNA of what we do in Earth observation at ESA
+Despite geopolitical tension and national budget woes, one message rang out loud and clear at Living Planet Symposium 2025: Earth science is a global mission. ESA has long fostered partnerships with NASA, JAXA, ISRO and many other space agencies and those collaborations continue to underpin the progress being made today.
+"International collaboration is in the DNA of what we do in Earth observation at ESA, but it's also really in the DNA of what Earth observation is," Cheli said during a plenary session.
+"We find ourselves in this Golden Age because of these strategic partnerships that have sustained over decades and the institutions that are joining along the way," said Karen St Germain, division director of NASA's Earth Science division, in the same session.
+"These strategic partnerships sustain us through the challenges, and we've had many of those over those decades in the past, and we'll continue to have challenges and overcome them as we look to the future," St Germain continued.
+If NASA must pull back, Europe is ready to step up — and do so with open arms.
+"And I think what could be really reinforced is the notion of autonomy and strategic autonomy of Europe, but also Europe being at the forefront in terms of the number of satellite infrastructure, space infrastructure, satellites available and data available to support environment, climate and sustainability," Cheli told Space.com.
+"So I think overall, we have to be positive in Europe, in terms of capabilities that we have acquired in terms of perspectives of even potentially an increased role of Europe in this domain overall if there are missing areas, or if there are gaps from other partners, I think we have a role to play," Cheli said.
+The stakes couldn't be higher. Scientists warn that we are rapidly approaching planetary tipping points, moments where feedback loops could push glaciers, forests, or oceans into irreversible decline.
+But at Living Planet Symposium 2025, the tone wasn't one of despair. It was one of urgency and optimism.
+Tools are being built. Satellites are being launched. Collaborations are deepening. The work is happening now.
+"Space alone will not save our planet, but I'm not sure that our planet will be able to sustain and continue to thrive without space," said the executive director of the International Astronautical Federation (IAF), Christian Feichtinger.
+Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+Daisy Dobrijevic joined Space.com in February 2022 having previously worked for our sister publication All About Space magazine as a staff writer. Before joining us, Daisy completed an editorial internship with the BBC Sky at Night Magazine and worked at the National Space Centre in Leicester, U.K., where she enjoyed communicating space science to the public. In 2021, Daisy completed a PhD in plant physiology and also holds a Master's in Environmental Science, she is currently based in Nottingham, U.K. Daisy is passionate about all things space, with a penchant for solar activity and space weather. She has a strong interest in astrotourism and loves nothing more than a good northern lights chase!
+You must confirm your public display name before commenting
+Please logout and then login again, you will then be prompted to enter your display name.

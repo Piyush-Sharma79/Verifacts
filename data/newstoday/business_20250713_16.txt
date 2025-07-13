@@ -1,0 +1,34 @@
+TITLE: Trump's Big Beautiful Bill is quietly handing startups a shot at a faster payday
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/trumps-big-beautiful-bill-helps-startups-faster-payday-qsbs-2025-7
+
+President Donald Trump's "One Big Beautiful Bill" Act contains tax changes that could mean big gains for startups and their investors.Eric Lee/Getty Images
+Under President Donald Trump's new tax bill, startup founders and investors might be able to turn their equity into a payday sooner than they think.
+The "One Big Beautiful Bill" Act, which became law last week, includes some key changes to the tax provisions for small businesses.
+The biggest changes are threefold. For one, the provisions now allow companies with larger fundraises under their belts to qualify as small businesses. They also increase the amount of profits that company stakeholders can receive tax-free after selling their shares.
+Most importantly, the provisions introduce a tiered system that brings tax benefits to investors faster.
+Previously, startup founders and investors were exempt from capital gains taxes on any profits from the company only if they got that profit five years after the stock was issued. That restriction could dissuade founders from taking an M&A deal or secondary sale in a startup's early years to avoid a massive tax hit.
+Now, those profits will be 50% tax-free after three years, 75% after four, and completely tax-free after five.
+Venture investors and startups who've caught on to the changes, and what they could mean for earlier startup exits, are buzzing.
+"With the previous five-year exit minimum, a lot of people don't get the benefit," said Luke Fischer, cofounder and CEO of geospatial tech startup SkyFi. "I think this looks like a forward-leaning administration that understands the reality of business and what that means for those folks to deploy their hard-earned capital, with the tax-free benefit, back into their own company or into a new company."
+The updates to Qualified Small Business Stock rules, or QSBS, expand the definition of a small business to include companies with less than $75 million in gross assets, up from the previous $50 million cap.
+Founders, investors, and employees who acquire a stake in a company before it hits $75 million in assets can now cash out down the line and get up to $15 million in profits per taxpayer from a sale of the startup's shares tax-free, or up to 10 times their initial investment in profits tax-free, whichever amount is greater. That's up from a previous $10 million profit cap.
+Some other limitations apply. Businesses that primarily sell services, like hospitals and law firms, don't qualify for QSBS benefits. Companies must also be registered as C corporations to qualify.
+Venture capital lawyer Chris Harvey pointed out that plenty of companies that last raised capital years ago and saw their assets hit $50 million or more, boxing them out of QSBS benefits, may now be eligible if their total assets don't exceed $75 million.
+That expansion also likely brings more Series A- and B-stage startups into the mix, he said. The average sizes of Series A and B funding rounds have decreased since the 2021 funding boom, which means startups may have raised less money overall later in their lifecycles, potentially extending their eligibility for QSBS benefits.
+"If you're at a company in that category and you have options, you might have previously thought, why even bother exercising my options. Now there may be a pathway for you," Harvey said.
+The updated provisions' biggest promise could be the potential for more, earlier M&A. "Startups can now actually entertain an acquisition offer at three years," said Milad Alucozai, cofounder and general partner at Pamir Ventures.
+Before the July changes, any acquisition offers that a small business received before the five-year mark had a huge caveat: they'd be subject to massive taxes on any profits made from the deal.
+While startup M&A timelines can vary wildly, most data suggests that startups get acquired on average between the five- and ten-year mark. However, Alucozai said that he's seeing more companies, especially AI startups, get acquisition offers earlier as Big Tech and other industries scramble to scoop up AI assets and talent.
+The changes could also make secondary sales more attractive. While secondary transactions usually happen later in a startup's life, Menlo Ventures principal Deedy Das suggested that the new provisions could encourage founders to entertain those deals earlier on.
+"It probably will increase the willingness of early employees and founders to sell in three to five years after their equity vests with the huge tax benefit, so we'll likely see more secondary sales for good companies where there's a lot of investor demand," he said.
+Investors will overwhelmingly benefit from the QSBS expansions, since they hold nearly 60% of all qualified small business stock, according to Carta data from August 2024. Founders follow behind, with 26%. Employees hold about 10%.
+Employees with stock options aren't off the hook on taxes, either, since they have to pay to convert their options into shares and face taxes on that conversion. Founders and investors, on the other hand, generally own company stock from the jump.
+Harvey said more changes would need to be made to QSBS provisions for the tax benefits to apply fairly to employees, founders, and investors.
+He also pointed to a lack of clarity in the new provisions about how SAFEs, or simple agreements for future equity, would be handled. SAFEs are commonly used by pre-seed and seed-stage startups to raise capital and promise equity to an investor down the line. However, those investors would likely have to be able to convert their shares to equity before a startup hit $75 million in gross assets, Harvey said. That could get complicated, since SAFE conversions usually happen at the company's next fundraise, adding more money that could disqualify the startup from QSBS benefits.
+There's also always the potential for brain drain if employees get a chance to cash out and decide to leave the company, Alucozai said. But he thinks the changes will encourage more capital flow in the venture ecosystem overall, and perhaps give founders and employees staying for the long haul a boost along the way.
+"If you want to build for the long term, liquidity along the way is not a bad thing," he said.
+
+
+
+Jump to

@@ -1,0 +1,79 @@
+TITLE: How Hot Can It Get, Literally? Scientists Weigh In
+SOURCE: Slashdot.org
+URL: https://news.slashdot.org/story/25/07/11/1728246/how-hot-can-it-get-literally-scientists-weigh-in
+
+Four years of research following the 2021 western North American heat wave has revealed both the meteorological conditions that fuel extreme temperatures and evidence that heat has physical limits. T… [+927 chars]
+
+FULL CONTENT:
+Want to read Slashdot from your mobile device? Point it at m.slashdot.org and keep reading!
+Nickname:
+Password:
+Nickname:
+Password:
+The Fine Print: The following comments are owned by whoever posted them.  We are not responsible for them in any way.
+Not sure off the top of my head, but I'm pretty certain that it has something to do with Planck units.
+Maybe We Should Have Done Something About ManBearPig - South Park [youtube.com]
+And if it is our fault, there's nothing we can do about it. All joking aside, there may be a day within my lifetime where this statement is true.  Well, at least close to true - we will always be able to do something about it, but there will come a time when we can't bring ourselves back to pre-industrial-times temperatures within a reasonable period of time (say, 100 years) without causing some other massive harm.
+And if it is our fault, there's nothing we can do about it.
+All joking aside, there may be a day within my lifetime where this statement is true.  Well, at least close to true - we will always be able to do something about it, but there will come a time when we can't bring ourselves back to pre-industrial-times temperatures within a reasonable period of time (say, 100 years) without causing some other massive harm.
+Pre-industrial lifestyle isn't as like as a post-Holocene epoch. A few mass extinctions will make neither industrial or pre-industrial lifestyles possible.
+That's what the automation, robotics and AI is for! Society will lose something like 7 billion people (that's gonna smell terrible) but the remaining ones (read rich folks) with have pretty much everything they need.
+So as you see, this is just the plan working as intended.
+In this case I believe the hottest temperature will be in the limit of approaching zero kelvin from below i.e. just below 0KHmm, sounds like you've caused an underflow on an unsigned value.  I recommend restarting the simulation from the top and hoping it goes better on the next iteration.
+In this case I believe the hottest temperature will be in the limit of approaching zero kelvin from below i.e. just below 0K
+Hmm, sounds like you've caused an underflow on an unsigned value.  I recommend restarting the simulation from the top and hoping it goes better on the next iteration.
+Given that perspective, the hottest possible temperature is when the air molecules are moving at about the speed of light.
+Of course, nothing would hang around in that case.
+Given that perspective, the hottest possible temperature is when the air molecules are moving at about the speed of light.
+No, that would be using the kinetic energy perspective to temperature not the more usual statitical mechanics mechanics approach. However, even then there is no upper bound on kinetic energy since, in the relativistic regime it becomes (gamma*mc^2 - mc^2) where gamma = 1/sqrt(1-v^2/v^2) so as v tends to c (the speed of light in vacuo) gamma become infinite so there is no known upper bound.
+Given that perspective, the hottest possible temperature is when the air molecules are moving at about the speed of light.
+No, that would be using the kinetic energy perspective to temperature not the more usual statitical mechanics mechanics approach. However, even then there is no upper bound on kinetic energy since, in the relativistic regime it becomes (gamma*mc^2 - mc^2) where gamma = 1/sqrt(1-v^2/v^2) so as v tends to c (the speed of light in vacuo) gamma become infinite so there is no known upper bound.
+There has to be an upper limit to kinetic energy.
+KE = 1/2 * mvv
+Stuff can't move any faster than the speed of light. So that puts a limit on velocity. A limit on velocity puts a limit on KE.
+Your formula is a just a low-speed approximation of the actual formula for kinetic energy, and it is not accurate at relativistic speeds. In the actual relativistic formula, the amount of energy increases towards infinity as the mass approaches the speed of light.
+During the [Paleocene-Eocene Thermal Maximum] [climate.gov], the global mean temperature appears to have risen by as much as 5-8ÂC (9-14ÂF) to an average temperature as high as 34ÂC (93ÂF). (Again, todayâ(TM)s global average is shy of 60ÂF.) At roughly the same time, paleoclimate data like fossilized phytoplankton and ocean sediments record a massive release of carbon dioxide into the atmosphere, at least doubling or possibly even quadrupling the background concentrations.
+The PETM is arguab
+Don't forget the permafrost right on the surface.
+Good one. :)
+If we can't move the planet by then we've gone extinct too.
+It depends on your measure and your tolerances. Let's limit tolerance to human survival levels. Here again, it depends. Humidity can move the survivable temperature limit up or down quite a bit. But, on average humans start dying at 45C+ for extended periods.
+Unfortunately our crops will die before 45C. Even special varieties of wheat don't like temperatures above 35C, So we'll likely starve before we all die from heat.
+The current average global temperature is 15.5C Please plan accordingly.
+About crops:  If climate change happens slowly enough, we can start farming in areas that are now too cold to farm in time to make up for areas that now produce but will be useless for farming later.
+You're assuming the soil is able to support those crops.  Look at the Sand Hills of Nebraska.  When settlers first saw them they thought, "Oh wow!  Acre after acre of land we can plant for food!"
+Turns out the ONLY thing which grows in them hills is the grass already there.  That's why they raise cattle and bison.
+There is no guarantee moving farms further north will be successful, let alone able to produce sufficient crops.
+Additionally, the farther you move from the equator towards the poles, the less surface area there is.
+We've invented nanoscale architectures which can meaningfully mimic human intelligence, but we won't be able to figure out a way to keep crops a few degrees cooler?Oh, we can figure out a way easily enough.  Figuring out a way to do it that doesn't quintuple food prices is the more difficult part.A lot of people don't realize how valuable "environmental services" (like crop-friendly weather) are to the economy until suddenly they don't have them anymore, and have to start spending money to try to reproduce those same conditions artificially.  Building air-conditioned indoor farms is going to be hell of a lot of capital-intensive than just essentially planting seeds in
+We've invented nanoscale architectures which can meaningfully mimic human intelligence, but we won't be able to figure out a way to keep crops a few degrees cooler?
+Oh, we can figure out a way easily enough.  Figuring out a way to do it that doesn't quintuple food prices is the more difficult part.
+A lot of people don't realize how valuable "environmental services" (like crop-friendly weather) are to the economy until suddenly they don't have them anymore, and have to start spending money to try to reproduce those same conditions artificially.  Building air-conditioned indoor farms is going to be hell of a lot of capital-intensive than just essentially planting seeds in
+before climate change deniers or antinuclear scumbags ever admit they were wrong.Support for nuclear power has been growing.  https://www.ans.org/news/2025-... [ans.org] The term "climate change denier" is so vague as to be meaningless.  Of course the climate changes, that can be proven with data extracted from geological and archeological digs.  The question is of warming, not mere change, correct?  Then once we determine if there is warming or not then the question is if this is somehow harmful.  If it is harmful then is the matter on if human activity caused it, or perhaps if there is anything hu
+before climate change deniers or antinuclear scumbags ever admit they were wrong.
+Support for nuclear power has been growing.  https://www.ans.org/news/2025-... [ans.org]
+The term "climate change denier" is so vague as to be meaningless.  Of course the climate changes, that can be proven with data extracted from geological and archeological digs.  The question is of warming, not mere change, correct?  Then once we determine if there is warming or not then the question is if this is somehow harmful.  If it is harmful then is the matter on if human activity caused it, or perhaps if there is anything hu
+Just because the sky is glowing with scattered blue light doesn't mean it's not cold space out beyond it.
+FWIW, Roman troops used that effect to make ice cream (well, really sherbets) in the Sahara.  But that didn't cool down the days.
+Ask Venus.
+Where I live (Kamloops, BC, Canada) the all-time high temperature record for a long time was 42C, set in July 1941.
+Most of southern B.C. set records that month. No air conditioning. Ugh! We demolished that record when it hit 47C in June 2021.
+I've never been so hot in my life...
+The hottest we've been so far this summer was 36C. I expect to hit the Big Four Oh at least once, but
+the long-term forecast isn't promising.
+...laura
+Here are some anecdotal data from my backyard weather station (Southern Ontario, Canada).Absolute values are irrelevant, but it is the comparative values that matter.Same sensor, same placement ...
+2022: highest was 33.9C in June, with 17 days above 30C (2 in May, 6 in June, 6 in July, 2 in August, and 1 in September.
+2023: highest was 33.4C in September, and 11 days above 30C (2 in May, 2 in June, 4 in July, none in August, and 3 in September.
+2024: highest was 35.2C in June, and 21 days above 30C.
+2025: alrea
+"Research has identified five key factors that enable extreme heat: cloudless skies, high pressure, dark surfaces, lower altitudes, and lack of water."
+When I moved out west the first thing I noticed was the daily temperature swings were easily twice as much as in Wisconsin. Clear skies, dry, and high altitude made a big difference in highs and lows. Dressing for outdoors out west is much harder given 40 to 50 F temperature swings are normal.
+Oddly enough, the coldest weather I had to be working outside was i
+but it's peak summer down south.
+There may be more comments in this discussion. Without JavaScript enabled, you might want to turn on Classic Discussion System in your preferences instead.
+Few Danes Work Until Official Retirement Age as Government Pushes It to 70
+Saving a Studio? This Looks Like a Job for Superman!
+"By the time they had diminished from 50 to 8, the other dwarves began
+to suspect "Hungry."
+-- a Larson cartoon

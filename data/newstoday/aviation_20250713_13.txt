@@ -1,0 +1,46 @@
+TITLE: Air India Crash: Engines Shut Down Seconds After Takeoff, Report Finds
+SOURCE: Skift
+URL: http://skift.com/2025/07/11/air-india-crash-engines-shut-down-seconds-after-takeoff-report-finds/
+
+Skifts coverage of the Air India crash is offered free to all readers.
+An unexplained fuel supply cutoff caused both engines of Air India Flight AI117 to shut down seconds after takeoff, according t… [+5471 chars]
+
+FULL CONTENT:
+Photo Credit: Indian Prime Minister Narendra Modi at the crash site in Ahmedabad. PM Modi's X account
+Even as the investigation is ongoing, the preliminary report brings some short-term relief for Boeing, which continues to navigate global scrutiny on multiple fronts.
+Select a question above or ask something else
+Skift’s coverage of the Air India crash is offered free to all readers.
+An unexplained fuel supply cutoff caused both engines of Air India Flight AI117 to shut down seconds after takeoff, according to a preliminary report released Saturday by India’s Aircraft Accident Investigation Bureau (AAIB).
+The 15-page document reveals that just 32 seconds into the June 12 flight, the Boeing 787 Dreamliner lost all engine power. The aircraft, en route from Ahmedabad to London, crashed less than a nautical mile from the runway, killing 241 of the 242 people on board.
+“At about 08:08:42 UTC and immediately thereafter, the Engine 1 and Engine 2 fuel cutoff switches transitioned from RUN to CUTOFF position one after another with a time gap of 01 sec. The Engine N1 and N2 began to decrease from their take-off values as the fuel supply to the engines was cut off,” the report stated.
+As per the conversation captured in cockpit voice recorder, “One of the pilots is heard asking the other why did he cutoff. The other pilot responded that he did not do so,” the report states
+The report indicates the fuel switches were turned back on mid-air. At that point, the engines’ Full Authority Digital Engine Control (FADEC) system attempted auto-restart. This triggered the igniters and slowly reintroduced fuel to restore thrust. Engine 1 showed some signs of recovery. Engine 2 did not.
+Airport CCTV footage confirmed the deployment of the Ram Air Turbine (RAT), a small emergency device that provides power when the main engines and generators fail. With systems now running on emergency backup, the pilots attempted multiple engine restarts.
+“No significant bird activity is observed in the vicinity of the flight path. The aircraft started to lose altitude before crossing the airport perimeter wall,” the report noted.
+The Air India flight crashed into the BJ Medical College hostel compound, destroying several buildings and catching fire on impact.
+“The aircraft was destroyed due to impact with the buildings on the ground and subsequent fire,” the report said.
+The AAIB said it is not recommending changes for Boeing or GE Aerospace at this stage of the investigation.
+“At this stage of investigation, there are no recommended actions to B787-8 and/or GE GEnx-1B engine operators and manufacturers.”
+The AAIB is leading the investigation with technical assistance from the U.S. National Transportation Safety Board, the U.K.’s Air Accidents Investigation Branch, Boeing, and GE Aerospace.
+The investigation is still on and AAIB has said the investigation team will review and examine additional evidence, records and information that is being sought from stakeholders.
+Acknowledging the receipt of the preliminary report, an Air India spokesperson said, "Air India is working closely with stakeholders, including regulators. We continue to fully cooperate with the AAIB and other authorities as their investigation progresses. Given the active nature of the investigation, we are unable to comment on specific details and refer all such enquiries to the AAIB."
+A 2018 Special Airworthiness Information Bulletin (SAIB) issued by the U.S. Federal Aviation Administration (FAA) warned airlines about a design concern in fuel control switches. The switches, which regulate fuel flow to engines, are supposed to have a locking feature to prevent accidental shutoff. The FAA noted that on some aircraft, the locking mechanism could malfunction.
+Though the advisory primarily targeted Boeing 737s, the same switch type is used in the 787 fleet.
+The FAA did not mandate corrective action, and Air India said it did not inspect the fuel switches on this aircraft because the SAIB was advisory in nature. Maintenance logs show that throttle components were replaced in 2019 and again in 2023, but no known issues were flagged with the fuel cutoff switches.
+There have been no prior reports of problems with the switch on this particular aircraft since 2023.
+India’s Ministry of Civil Aviation has formed a separate committee to submit findings within three months. Civil Aviation Minister Ram Mohan Naidu has pledged full transparency.
+“Any information that is going around this crash, any theory… everything will be analyzed,” Naidu said during a press briefing after the crash.
+Air India CEO Campbell Wilson also urged restraint and accuracy in public commentary.
+“We will cooperate in all possible ways,” Wilson said in a statement. He visited the crash site the following day, alongside more than 30 technical experts from Air India.
+Flight AI117 had originated in Paris, making scheduled stops in Delhi and Ahmedabad before departing for London at 1:39 p.m. local time on June 12. The aircraft reached approximately 650 feet before losing altitude.
+A mayday call was issued seconds after takeoff, but officials say there was “no response” following the call. The aircraft crashed about two kilometers from the airport into a medical college hostel. No abnormalities had been reported during the earlier legs of the journey.
+Captain Sumeet Sabharwal, a senior pilot with over 8,200 hours on the 787, was in command. His co-pilot had logged roughly 1,100 hours.
+Investigators recovered the cockpit voice and flight data recorder, also known as the Digital Voice Data Recorder (DVDR), within 28 hours of the crash.
+The crash has triggered regulatory action. The Directorate General of Civil Aviation (DGCA) has ordered extended safety checks for all Boeing 787s in Indian fleets. So far, no mechanical or technical defects have been confirmed.
+The DGCA said its review of Air India’s maintenance protocols found the airline to be in compliance with current safety standards.
+Curated by Meghna Maharishi
+Airline Reporter
+Jet Stream keeps you ahead of the fast-moving world of global airlines.
+Get it in your inbox every Saturday.
+By submitting this form, you agree to receive email communication from Skift.
+Tags: air india, asia monthly, aviation, boeing, india

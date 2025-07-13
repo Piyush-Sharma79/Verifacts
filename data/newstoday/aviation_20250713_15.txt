@@ -1,0 +1,62 @@
+TITLE: Breaking: Preliminary report on deadly Air India crash reveals engine fuel switch changes
+SOURCE: ABC News (AU)
+URL: https://www.abc.net.au/news/2025-07-12/air-india-crash-reveals-engine-fuel-switch-changes/105521744
+
+A preliminary report on the fatal Air India crash that killed 260 people in Ahmedabad last month says the plane's engine fuel switches were shifted from run to cut-off within seconds of each other.
+… [+736 chars]
+
+FULL CONTENT:
+Topic:Disasters, Accidents and Emergency Incidents
+The report says the Air India plane's engine fuel switches were flipped off three seconds after take-off, starving the engines.
+It said there were indications of both engines relighting before the plane crashed, killing 260 people.
+A US aviation safety expert says engine fuel switches cannot be flipped off accidentally.
+A preliminary report on the Air India crash that killed 260 people in Ahmedabad last month says the plane's engine fuel switches were flipped off within seconds of each other, starving the engines, three seconds after take-off.
+The Boeing 787 Dreamliner immediately began to lose thrust and altitude, according to the report released by India's Aircraft Accident Investigation Bureau (AAIB).
+Almost immediately after the plane lifted off the ground, CCTV footage shows a back-up energy source called a ram air turbine being deployed, indicating a loss of power from the engines.
+In the flight's final moments, one pilot was heard on the cockpit voice recorder asking the other why he cut off the fuel.
+"The other pilot responded that he did not do so," the report said.
+It did not identify which remarks were made by the flight's captain and which by the first officer, nor which pilot transmitted "Mayday, Mayday, Mayday" just before the crash.
+At the crash site, both fuel switches were found in the run position, and there were indications of both engines relighting before the low-altitude crash, according to the report.
+Commanding pilot Sumeet Sabharwal, 56, had 15,638 hours of flying experience and was also an Air India instructor, according to the Indian government.
+His co-pilot, Clive Kunder, 32, had 3,403 hours of experience. They had both flown a combined 9,000 hours on the 787.
+Air India Flight AI-171 crashed in a residential area in Ahmedabad in India.  (AP: Central Industrial Security Force)
+The preliminary report also does not say how the switch could have flipped to the cut-off position on the June 12 London-bound flight.
+"At this stage of investigation, there are no recommended actions to Boeing 787-8 and/or GEnx-1B engine operators and manufacturers," India's AAIB said.
+Air India acknowledged the report in a statement on the social media site X.
+The carrier said it was cooperating with Indian authorities but declined to comment further.
+US aviation safety expert Anthony Brickhouse said a key question was why the switches were moved in a way that was inconsistent with normal operations.
+"Did they move on their own, or did they move because of the pilots?" he asked.
+"And if they were moved because of a pilot, why?"
+Footage and flight data reveals Air India flight AI171 was only in the air for seconds before it crashed 1.5km from where it took off.
+US aviation safety expert John Cox said a pilot would not be able to accidentally move the fuel switches that feed the engines.
+"You can't bump them and they move," he said.
+Flipping the switches to the cut-off position almost immediately cuts the engines.
+They are most often used to turn engines off once planes have arrived at their airport gates and in certain emergency situations, such as engine fires.
+The report does not indicate there was any emergency requiring an engine cut-off.
+The AAIB, an office under India's civil aviation ministry, is leading the probe into the world's deadliest aviation accident in a decade.
+Most air crashes are caused by multiple factors, with a preliminary report due 30 days after the accident, according to international rules, and a final report expected within a year.
+The plane's black boxes, combined cockpit voice recorders and flight data recorders, were recovered in the days following the crash and later downloaded in India.
+Black boxes record crucial data such as altitude, airspeed and final pilot conversations, which help to narrow down possible causes of a crash.
+Air India has been under intense scrutiny since the Ahmedabad crash.
+The European Union Aviation Safety Agency said it planned to investigate its budget airline Air India Express after news agency Reuters reported the carrier did not follow a directive to change the engine parts of an Airbus A320 in a timely manner and falsified records to show compliance.
+India's aviation watchdog has also warned Air India for breaching rules for flying three Airbus planes with overdue checks on escape slides, and in June warned it about "serious violations" of pilot duty timings.
+The Boeing 787 Dreamliner, which started losing height after reaching an altitude of 650 feet, crashed moments after take-off from Ahmedabad in India.
+The crash killed 241 of the 242 people on board and 19 others on the ground, according to the preliminary report.
+Boeing and GE Aerospace did not respond immediately to requests for comment.
+Topic:Federal Government
+Topic:Missing Person
+Topic:Police
+Topic:Drug Offences
+Analysis by Gareth Hutchens
+Topic:Disasters, Accidents and Emergency Incidents
+Disasters, Accidents and Emergency Incidents
+India
+Topic:Federal Government
+Topic:Missing Person
+Topic:Police
+Topic:Drug Offences
+Analysis by Gareth Hutchens
+Topic:State and Territory Elections
+Topic:World Politics
+Topic:Missing Person
+Topic:World Politics

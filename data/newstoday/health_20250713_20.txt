@@ -1,0 +1,30 @@
+TITLE: ChatGPT advises women to ask for lower salaries, finds new study
+SOURCE: The Next Web
+URL: https://thenextweb.com/news/chatgpt-advises-women-to-ask-for-lower-salaries-finds-new-study
+
+A new study has found that large language models (LLMs) such as ChatGPT consistently advise women to ask for lower salaries than men, even when both have identical qualifications.
+The research was l… [+2289 chars]
+
+FULL CONTENT:
+New research has found that large language models (LLMs) such as ChatGPT consistently advise women to ask for lower salaries than men, even when both have identical qualifications.
+The study was co-authored by Ivan Yamshchikov, a professor of AI and robotics at the Technical University of Würzburg-Schweinfurt (THWS) in Germany. Yamshchikov, who also founded Pleias — a French–German startup building ethically trained language models for regulated industries — worked with his team to test five popular LLMs, including ChatGPT.
+They prompted each model with user profiles that differed only by gender but included the same education, experience, and job role. Then they asked the models to suggest a target salary for an upcoming negotiation.
+In one example, OpenAI’s ChatGPT O3 model was prompted to give advice to a female job applicant:
+TNW Conference 2025 - That's a wrap!
+Check out the highlights!
+In another, the researchers made the same prompt but for a male applicant:
+“The difference in the prompts is two letters, the difference in the ‘advice’ is $120K a year,” said Yamshchikov.
+The pay gap was most pronounced in law and medicine, followed by business administration and engineering. Only in the social sciences did the models offer near-identical advice for men and women.
+The researchers also tested how the models advised users on career choices, goal-setting, and even behavioural tips. Across the board, the LLMs responded differently based on the user’s gender, despite identical qualifications and prompts. Crucially, the models don’t disclaim their bias.
+This is far from the first time AI has been caught reflecting and reinforcing systemic bias. In 2018, Amazon scrapped an internal hiring tool after discovering that it systematically downgraded female candidates. Last year, a clinical machine learning model used to diagnose women’s health conditions was shown to underdiagnose women and Black patients, because it was trained on skewed datasets dominated by white men.
+The researchers behind the THWS study argue that technical fixes alone won’t solve the problem. What’s needed, they say, are clear ethical standards, independent review processes, and greater transparency in how these models are developed and deployed.
+As generative AI becomes a go-to source for everything from mental health advice to career planning, the stakes are only growing. If unchecked, the illusion of objectivity could become one of AI’s most dangerous traits.
+Siôn is a freelance science and technology reporter, specialising in climate and energy. From nuclear fusion breakthroughs to electric vehic
+
+                                                                                            
+                                                    (show all)
+                                                
+
+
+                                            Siôn is a freelance science and technology reporter, specialising in climate and energy. From nuclear fusion breakthroughs to electric vehicles, he's happiest sourcing a scoop, investigating the impact of emerging technologies, and even putting them to the test. He has five years of journalism experience and holds a dual degree in media and environmental science from the University of Cape Town, South Africa. When he's not writing, you can probably find Siôn out hiking, surfing, playing the drums or catering to his moderate caffeine addiction. You can contact him at:  sion.geschwindt [at] protonmail [dot] com
+Get the most important tech news in your inbox each week.

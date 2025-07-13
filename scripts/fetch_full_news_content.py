@@ -89,7 +89,7 @@ def update_news_file_with_content(file_path, full_content):
 
 def main():
     # Find all news data files
-    news_files = glob.glob("data/news/*.txt")
+    news_files = glob.glob("data/newstoday/*.txt")
 
     if not news_files:
         print("No news files found!")

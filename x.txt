@@ -1,0 +1,1 @@
+whenevr you want to fetch latest news go to make a new folder do the schanges in scripts to set the output directory as your new folder then generate the indexes and also add that folder also the step of fething full news content do for that folder work done

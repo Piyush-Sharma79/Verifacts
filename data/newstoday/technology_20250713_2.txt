@@ -1,0 +1,15 @@
+TITLE: An Induction Lamp Made on the Same Principle as Ordinary Fluorescent Lamp
+SOURCE: Hackaday
+URL: https://hackaday.com/2025/07/11/an-induction-lamp-made-on-the-same-principle-as-ordinary-fluorescent-lamp/
+
+Over on YouTube, [Technology Connections] has a new video: Induction lamps: fluorescent lighting’s final form.
+This video is about a wireless fluorescent light which uses induction to transfer power… [+1215 chars]
+
+FULL CONTENT:
+Over on YouTube, [Technology Connections] has a new video: Induction lamps: fluorescent lighting’s final form.
+This video is about a wireless fluorescent light which uses induction to transfer power from the electrical system into the lamp. As this lamp doesn’t require wiring it is not prone to “sputtering” as typical fluorescent lights are, thus improving the working life by an order of magnitude. As explained in the video sputtering is the process where the electrodes in a typical fluorescent lamp lose their material over time until they lose their ability to emit electrons at all.
+This particular lamp has a power rating of 200 W and light output of 16,000 lumens, which is quite good. But the truly remarkable thing about this type of lighting is its service life. As the lamp is simply a phosphor-coated tube filled with argon gas and a pellet of mercury amalgam it has a theoretically unlimited lifespan. Or let’s call it 23 years.
+Given that the service life is so good, why don’t we see induction lamps everywhere? The answer is that the electronics to support them are very expensive, and these days LED lighting has trounced every lighting technology that we’ve ever made in terms of energy efficiency, quality of light, and so on. So induction lamps are obsolete before they ever had their day. Still pretty interesting technology though!
+
+
+Thanks to [Keith Olson] for writing in about this one.

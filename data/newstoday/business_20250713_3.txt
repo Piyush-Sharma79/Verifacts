@@ -1,0 +1,33 @@
+TITLE: Amazon's alliance with Anthropic is paying off handsomely for the tech giant's cloud business
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/amazon-anthropic-billions-cloud-revenue-growth-2025-7
+
+AWS CEO Matt GarmanAmazon
+Amazon's partnership with Anthropic has been a big success and is set to drive significant growth in the tech giant's cloud business in coming years, according to new estimates released on Friday.
+Amazon Web Services stands to generate billions of dollars in extra in revenue from the alliance, Morgan Stanley analysts wrote in a note to investors.
+The investment bank estimated that AWS could generate $1.28 billion in sales in 2025 from Anthropic's use of its cloud services. That number could balloon to almost $3 billion in 2026 and $5.6 billion in 2027 as Anthropic's AI workloads grow, the note said.
+The projections highlight the substantial returns AWS could reap from its partnership with Anthropic.
+Amazon invested $8 billion in Anthropic so far, making it the largest startup investment in company history. That stake is now worth $13.8 billion, according to Amazon's latest financial statement. Anthropic is also a heavy user of AWS's cloud services, including its Trainium AI chips. AWS is now considering pouring more money into the OpenAI rival, the Financial Times reported this week.
+Spokespeople from Amazon and Anthropic didn't respond to a request for comment.
+In its note, Morgan Stanley forecast Anthropic's revenue will grow from $4 billion this year to $10 billion in 2026 and $19 billion in 2027. The bank's analysts then assumed Anthropic gross profit margins of 60%, and estimated that 75% of related costs are spent on AWS cloud services.
+This is mostly from AWS doing inference for Anthropic, which is running the startup's AI models. Any upfront training of future Anthropic models would generate more revenue for Amazon, the analysts wrote.
+More broadly, Morgan Stanley cited the partnership with Anthropic as one of the key factors behind its expectation that AWS revenue growth will accelerate this year.
+Other reasons include AWS's solid growth trajectory, even without Anthropic's contribution. AWS grew in the range of 16% to 19% a year over the last 5 quarters, which speaks to the resilience of its core cloud offerings, Morgan Stanley wrote.
+Microsoft Azure's recent success, fueled by both AI and non-AI workloads, suggests a broader enterprise appetite for generative AI infrastructure, Morgan Stanley's note added. AWS could benefit from a similar pattern, especially as organizations increase their AI work, it said.
+Morgan Stanley's latest CIO survey also indicated that Amazon could gain share over Microsoft and Google Cloud in the near term, giving "more confidence" in AWS's strong position, the note said.
+"In all, our new AWS base model could prove conservative if Anthropic continues to grow and GPU supply constraints ease," Morgan Stanley wrote, "opening the door for faster GPU and non-GPU enabled workload growth."
+Have a tip? Contact this reporter via email at ekim@businessinsider.com or Signal, Telegram, or WhatsApp at 650-942-3061. Use a personal email address, a nonwork WiFi network, and a nonwork device; here's our guide to sharing information securely.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to

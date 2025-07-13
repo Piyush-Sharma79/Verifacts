@@ -1,0 +1,31 @@
+TITLE: OpenAI's Windsurf Deal Is Off, Windsurf's CEO Is Going To Google
+SOURCE: Slashdot.org
+URL: https://tech.slashdot.org/story/25/07/11/2246210/openais-windsurf-deal-is-off-windsurfs-ceo-is-going-to-google
+
+Effective immediately, Jeff Wang, Windsurf's head of business, has become interim CEO, and Graham Moreno, its VP of global sales, will be Windsurf's new president. "Gemini is one of the best models a… [+703 chars]
+
+FULL CONTENT:
+Follow Slashdot stories on Twitter
+Nickname:
+Password:
+Nickname:
+Password:
+The Fine Print: The following comments are owned by whoever posted them.  We are not responsible for them in any way.
+Never heard of "Windsurf" (where do they get these stupid names?), but for some reason, I find this approach to "faux-acquisition" of a company interesting.
+I wonder how common it is, or will become - and how long before governments and others bitch about it being unfair in one way or another.
+I think you misunderstood my point.
+I was not referring to buying competitors, or specific products, but hiring away key people while licensing the products, as described in the summary.
+Their name used to be Codeium, or Codium, or something. They made a fork of the vscode IDE that has a good interface to various LLM's. Not much more than a fancy extension. It got some traction and they changed it to a sexier name. I use it, its very convenient. It appears to extend the context window of LLM's with some sort of side metadata.
+Their discord group is very active. I bet they have a lot of users and they funnel a lot of prompts to OpenAI products. That got OpenAI's attention. But no way is it worth $3 billion. Maybe a few million.
+Codeium. Prior to the rename they were interviewed on the Prof G podcasts First Time Founders series. They were one of the early ones coming up with truly useful coding aids and were getting traction with large shops. They offer offline capabilities that attracted financial and defense related clients who had security concerns. As I recall one of their points of pride was they had a significant amount of customers who already had paid access to other tools like Github Copilot and they still chose to pay for
+Thanks for the additional info. Early last year they were just a vscode extension that did code completion, and it did a pretty good job. Then they implemented a chat panel that wrote large hunks of code though it was awkward to use. Eventually they made their own version of vscode with very good integration with multiple LLM backends. That's when it really took off.
+Its a very cheap subscription for what it does. I'm wondering if it will stay that way, and if the company will even survive now that the deal
+Dude goes from being CEO of a $3 billion company to an individual contributor writing code in a subdivision of a subdivision within Google? That is bad ass, if true.
+It might be hard to understand until you know how much he pockets in the process.
+If he extracted part of that valuation, this job is basically a retirement with something to do.
+There may be more comments in this discussion. Without JavaScript enabled, you might want to turn on Classic Discussion System in your preferences instead.
+JPMorgan Tells Fintechs They Have To Pay Up For Customer Data
+BYD Pledges to Cover Damages from Self-Parking Car Crashes
+"By the time they had diminished from 50 to 8, the other dwarves began
+to suspect "Hungry."
+-- a Larson cartoon

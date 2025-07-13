@@ -1,0 +1,30 @@
+TITLE: Log your weight in Apple Health quickly and cheaply with this iPhone-compatible smart scale
+SOURCE: 9to5Mac
+URL: https://9to5mac.com/2025/07/11/log-weight-apple-health-iphone-eufy-smart-scale/
+
+Update: Limited time Amazon Prime Day deal has this scale discounted to under $35 right now.
+After my last WiFi-enabled smart scale broke and refused to connect to the Internet anymore, I sought som… [+4363 chars]
+
+FULL CONTENT:
+Update: Limited time Amazon Prime Day deal has this scale discounted to under $35 right now.
+After my last WiFi-enabled smart scale broke and refused to connect to the Internet anymore, I sought something simpler and cheaper to replace it. The old scale had all sorts of fancy service integrations that I never used. I just wanted something that would track my weight and report the measurements to the Health app on my iPhone.
+The Eufy C20 smart scale is what I landed on and I’m very happy with it — and it’s pretty cheap too. Here’s how it works …
+Firstly, the scale works completely independently of any other electronic device or service. The iPhone Apple Health integration is an optional extra, but is not required, and there’s no associated subscriptions or other upsells.
+The C20 scale has a relatively small footprint, measuring under 27cm square, so you can tuck it away in your bathroom without it taking up too much space. But what’s nice is on top of the scale, you get a pretty large and bright 3.3-inch color screen.
+When you step on the scale, it will take your weight and measure other metrics like body fat and muscle mass at the same time. These numbers are easily glanceable on the big screen, and it will show you a little graphic visualising change over time compared to your last reading. Eufy says the scale is accurate with a variance of ~50g (0.1bs), and it seemed accurate in my testing.
+Optionally, you can turn on heart rate tracking too, but this requires you to stand on the scale for a few more seconds each time you go to take a reading.
+To get all these stats added to Apple Health, you pair the scale using the eufy Life app. It uses Bluetooth to communicate. Crucially, data is only sent to the iPhone when the Eufy app is open and you activate the scale by standing on it. So to sync your measurements with the Health app, next time you go stand on the scale, you just take your iPhone with you and open the Eufy app on it nearby.
+Almost instantly, it will connect to the scale and your weight will be logged inside eufy Life, which then also sends it to the Apple Health database. You don’t have to press any buttons, just have the app open, so it’s pretty painless. A Bluetooth symbol appears on the screen of the scale to confirm it is connected.
+The eufy Life app interface is certainly not the best designed app you’ve ever seen, but it doesn’t matter. You don’t have to use it, and I don’t. You just open it so it connect to the scale, and then you can close it again and check your data in Health or any third-party app that talks to the HealthKit database.
+You also don’t need to remember to bring your phone with you every time you go to the bathroom to weigh in. The scale has onboard memory and tracks the last few weeks of metrics. If you step on the scale with no phone connected, it just shows the information on its screen and saves it for later. When you next do step on with the iPhone present, it will sync the full history of metrics.
+It’s that easy, with no fuss. Now I have all of the following metrics being recorded and saved to Health app: Weight, Body Fat Percentage, Body Mass Index, Height, and Lean Body Mass. It could send Heart Rate readings too, but I disabled that feature on the scale in lieu of using my Apple Watch, as doing it on the scale means waiting around for a good five-to-ten additional seconds. If you don’t have a Watch, you may find that useful but for me that particular feature ended up just being an inconvenience.
+The only other gotcha to be aware of is multi user support. If you have multiple members of your family, you can add each person as a separate profile on the scale to track metrics independently, up to 16 users. These are attributed appropriately in the eufy Life app, but there’s not a good way of syncing each profile’s data to each person’s phone for storage in Apple Health. ALthough there are some workarounds, the Health integration is clearly designed for single user operation.
+It’s not the fanciest smart scale on the market but it does what I need. It’s fast, reliable and gets out of your way. And it is pretty inexpensive for a smart scale.
+You can get the Eufy Smart Scale C20 for $39.99 right now on Amazon. That’s a 33% discount compared to its normal list price of $59.99. Prime members can get an extra $5 off.
+Disclosure: We earn commission from the affiliate links above. This review is partnered with Eufy through the Amazon Creator Connections marketing program.
+FTC: We use income earning auto affiliate links. More.
+Check out 9to5Mac on YouTube for more Apple news:
+Apple's health initiative (with Apple Watch) are…
+Benjamin develops iOS apps professionally and covers Apple news and rumors for 9to5Mac. Listen to Benjamin, every week, on the Happy Hour podcast. Check out his personal blog. Message Benjamin over email or Twitter.
+The easiest way to get into HomeKit and Apple smart home tech. Great for gifts.
+Inexpensive, fast, wireless charger for iPhone.

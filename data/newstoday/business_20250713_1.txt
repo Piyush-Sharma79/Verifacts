@@ -1,0 +1,55 @@
+TITLE: TikTok poached Amazon employees to jump-start its US business. Now it's doubling down on its Chinese roots.
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/tiktok-hired-amazon-staff-for-shop-pivots-back-to-china-2025-7
+
+Getty Images; Alyssa Powell/BI
+"Always day 1" is one of six core cultural principles at TikTok. The slogan, meant to inspire agility and urgency, might sound familiar. It was coined by Amazon founder Jeff Bezos.
+Business principles aren't the only thing TikTok has taken from Amazon.
+When TikTok officially launched its e-commerce platform Shop in the US in 2023, it went on a hiring spree, poaching dozens of Amazon staffers to work in its Bellevue, Washington, offices, located a few blocks from some Amazon offices. By the end of 2024, TikTok had 1,700 employees there, according to the city's estimates.
+So many TikTok Shop employees came from Amazon that its early staff meetings sometimes felt like Amazon alumni reunions, current and former staffers told Business Insider.
+"It was Amazon left, right, and center," said one employee who came from Amazon. Another ex-Amazonian estimated that 75% of their 2023 TikTok Shop orientation group had previously worked at the e-commerce giant.
+Amazon showed up in operations, too. TikTok team members routinely shared insights about Amazon's business strategies, sometimes walking through documents taken directly from their former employer, two current staffers and one former TikTok staffer said. And just like at Amazon, employees crafted narrative memos to share products or ideas and allocated dedicated time for people to read them. Some tried to infuse TikTok with other Amazon strategies like customer obsession or single-person ownership of projects from start to finish.
+TikTok didn't want to be exactly like Amazon — its secret sauce was its social app with popular videos and an influencer network. But it really wanted Amazon's brand partners, and to replicate the customer shopping experience that had turned Amazon into a $2 trillion behemoth.
+Amazon controls about 40% of the total US e-commerce market, which could cross $100 billion in 2026, according to EMARKETER. If TikTok could peel away even a small percentage of customers, the opportunity would be huge.
+In some ways, TikTok never fully embraced a local-first approach to the US market. Despite hiring so many people in the US, its key e-commerce leaders continued to largely direct the business from China and Singapore.
+Then, last year, the US team began to fall short of its goals. Chinese leadership at ByteDance, TikTok's owner, began stripping some US executives' autonomy through changes to their reporting structures. A parade of US team managers left the company, and in their place, TikTok's parent company installed new leaders who weren't tapped into the Amazon playbook.
+Gone are the days of draining knowledge from America's most iconic e-commerce retailer. TikTok Shop leaders are focused on a different North Star: its Chinese sister app, Douyin.
+The changes on the Shop team mirror a broader shift within TikTok, which, even as it seeks an American buyer, has given more strategic power to leaders from China and Singapore.
+Some TikTok insiders feel the shift was inevitable.
+ByteDance leaders "weren't willing to listen to what strategies worked for Amazon that were relevant for TikTok," a former Shop staffer who worked with sellers said. They said leaders had a fixation on livestream selling — a big sales driver in China that did not translate as successfully to the US market.
+Leadership wanted "US representation and experience, but they didn't want to take a US strategy," this person continued.
+"It was a constant struggle between 'copy Amazon' and 'copy Douyin,'" a second former Shop worker said.
+TikTok and Amazon did not provide comment on this story.
+In 2023, TikTok recruited Nicolas Le Bourgeois, a nine-year Amazon veteran, to run TikTok Shop's US operations. Other Amazonians soon joined TikTok to boost sales in key product categories and staff roles like seller relationships, trust and safety, governance, operations, and logistics.
+Like Amazon, TikTok launched its own "Fulfilled by TikTok" business in 2023. It pushed sellers to ship products to US customers faster and established six US warehouses by October 2024, Le Bourgeois told BI last year.
+Amazon wasn't the only company where TikTok Shop sourced talent, but it was a big focus.
+The company hired people who had relationships with "US brands, heritage brands, household names, because they wanted us to basically convince those brands to get on platform," the former staffer who worked with sellers said.
+Some team members studied Amazon's product pages, its checkout process, and other core elements of its shopping experience.
+By early 2024, TikTok seemed to be making progress. Despite some users grumbling about seeing too many e-commerce videos, it was making strides in key metrics like customer retention. Some brands were reporting seven-figure hauls from TikTok Shop livestreams.
+But executives at ByteDance weren't happy.
+The app's sales were minuscule compared to Douyin, a dominant player in China that drives hundreds of billions in annual sales there. Bob Kang, ByteDance's e-commerce leader, called out the US team for missing 2024 goals in a February 2025 all-hands.
+The company was struggling with recruiting those "household name" brands in some product categories, and instead finding a lot more success with smaller sellers, often based out of China.
+ByteDance leadership began removing power from local US leaders in 2024, current and former staffers said.
+Then came a series of restructurings, two rounds of layoffs, and review-cycle exits over the first half of 2025. Many of the early ex-Amazon workers exited, replaced by executives with expertise working on Douyin.
+In April, Le Bourgeois was moved under former Douyin executive Mu Qing, no longer reporting directly to Kang. The next month, Le Bourgeois left the company, according to an internal memo viewed by BI.
+Le Bourgeois did not respond to a request for comment.
+With Le Bourgeois gone, one staffer said it's become harder for US employees to communicate with ByteDance leadership.
+ByteDance leaders are now betting TikTok Shop's future on leaders with Douyin expertise.
+Douyin's e-commerce business is a crown jewel for ByteDance, and replicating its strategies in the US and other markets could pay off big if the rest of the world follows Chinese consumers in embracing social shopping.
+As TikTok Shop expands into additional markets, it's running many operations centrally out of China and Singapore.
+In April, the company heavily restructured its moderation team in Latin America to give control to Chinese and Singaporean leaders rather than local managers, according to an internal memo viewed by BI.
+In May, it flew Chinese staffers to São Paulo to support the rollout of TikTok Shop in Brazil.
+The company's swing back to its Chinese roots in the US may seem counterintuitive, as TikTok's ties to China prompted a 2024 US law that requires it to divest from its owner. But TikTok does not appear to be under imminent danger of shutting down; Trump has extended its divestment deadline three times since January. And TikTok may soon separate its US users into a country-specific app, The Information reported.
+The road ahead for TikTok Shop, as it faces business and political obstacles, will require embodying the "always day 1" agility the company lists as a core principle.
+After months of leadership changes, TikTok Shop is grappling with volatile sales in 2025 amid Trump's tariffs on China and the removal of a key import exemption, BI previously reported. While weekly order volume slumped in May compared to April after tariffs went into effect, the company wrote in a blog post last month that platform sales were up 120% year-over-year for the first two weeks of June.
+ByteDance is betting it can meet its e-commerce ambitions by leaning heavily on the expertise that made Douyin a leader in China. Some insiders say this could risk missing the US market nuances that local e-commerce workers might more easily spot.
+In many ways, they never committed to a local US strategy, the third staffer said. "It has always been 'rebuild Douyin' for the western market."
+
+
+
+
+
+
+
+
+Jump to

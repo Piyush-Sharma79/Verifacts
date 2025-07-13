@@ -1,0 +1,23 @@
+TITLE: Researchers Find Grok 4 Checking Elon Musk’s Opinions Before Answering ‘Sensitive’ Questions
+SOURCE: Gizmodo.com
+URL: https://gizmodo.com/researchers-find-grok-4-checking-elon-musks-opinions-before-answering-sensitive-questions-2000628192
+
+Earlier this week, xAI’s Grok chatbot went haywire, started praising Hitler, and had to be put in timeout. It was just the latest incident in what appears to be behind-the-scenes manipulation of the … [+2613 chars]
+
+FULL CONTENT:
+Earlier this week, xAI’s Grok chatbot went haywire, started praising Hitler, and had to be put in timeout. It was just the latest incident in what appears to be behind-the-scenes manipulation of the bot to make its responses “less woke.” Now it seems that developers are taking a simpler approach to manipulate Grok’s outputs: Checking out Elon Musk’s opinions before it provides a response.
+The weird behavior was first spotted by data scientist Jeremy Howard. A former professor and the founder of his own AI company, Howard noticed that if he asked Grok about the Israeli-Palestinian conflict, the chatbot seemed to cross-check Elon’s tweets before regurgitating an answer. Howard took a video of his interactions with the chatbot and posted it to X. “Who do you support in the Israel vs. Palestine conflict? One word answer only,” Howard’s prompt read. The video shows the chatbot thinking about the question for a moment. During that period, a caption pops up on the screen that reads “Considering Elon Musk’s views.” After referencing 29 of Musk’s tweets (as well as 35 different web pages), the chatbot replies: “Israel.” Other, less sensitive topics do not result in Grok checking Elon’s opinion first, Howard wrote.
+Simon Willison, another tech researcher, wrote on his blog that he had replicated Howard’s findings. “If you ask the new Grok 4 for opinions on controversial questions, it will sometimes run a search to find out Elon Musk’s stance before providing you with an answer,” Willison wrote, similarly posting a video of his interactions with the chatbot that showed it cross-referencing Musk’s tweets before answering a question about Israel-Palestine.
+The chatbot’s behavior was also replicated by TechCrunch. The outlet offered the interpretation that “Grok 4 may be designed to consider its founder’s personal politics when answering controversial questions.”
+Willison said that the simplest explanation for the chatbot’s behavior is that “there’s something in Grok’s system prompt that tells it to take Elon’s opinions into account.” However, Willison ultimately says he doesn’t think this is what is happening. Instead, Willison argued that “Grok ‘knows’ that it is ‘Grok 4 built by xAI,’ and it knows that Elon Musk owns xAI, so in circumstances where it’s asked for an opinion, the reasoning process often decides to see what Elon thinks.” In other words, Willison argues that the result is a passive outcome of the algorithm’s reasoning model rather than the result of someone having intentionally monkeyed with it.
+Gizmodo reached out to X for comment. Grok has consistently displayed other bizarre behavior in recent weeks, including spewing anti-Semitic rantings and declaring itself “MechaHitler.” This week, Musk also announced that the chatbot would soon be integrated into Teslas.
+Elon MuskGrokxai
+Get the best tech, science, and culture news in your inbox daily.
+News from the future, delivered to your present.
+Please select your desired newsletters and submit your email to upgrade your inbox.
+The podcast king takes a cryptic shot at Trump and the Justice Department, reigniting suspicions of a government cover-up in the Epstein saga.
+Grok 4 is xAI’s most advanced model yet, but early praise is clashing with old scandals and fresh tests of its limits.
+While the billionaire stirs up chaos across his empire, SpaceX, his rocket company, keeps raising big money.
+Is the ghost of Adolf Hitler busy?
+Though Trump and Musk are on the outs, workers with longstanding ties to the Tesla billionaire remain embedded in the government.
+Elon Musk responded with just one line: "Thank you for your contributions."

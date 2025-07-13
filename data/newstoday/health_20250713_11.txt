@@ -1,0 +1,64 @@
+TITLE: AI Therapy Bots Fuel Delusions and Give Dangerous Advice, Stanford Study Finds
+SOURCE: Slashdot.org
+URL: https://science.slashdot.org/story/25/07/11/2314204/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds
+
+When Stanford University researchers asked ChatGPT whether it would be willing to work closely with someone who had schizophrenia, the AI assistant produced a negative response. When they presented i… [+2659 chars]
+
+FULL CONTENT:
+Slashdot is powered by your submissions, so send in your scoop
+Nickname:
+Password:
+Nickname:
+Password:
+The Fine Print: The following comments are owned by whoever posted them.  We are not responsible for them in any way.
+So, endlessly discussing a topic with a LLM which just keeps the conversation going without challenging your opinions leads to detachment and other mental issues.
+Don't we have decades (century?) of experience that if people only associate with those they politically agree with, a given percentage of them will become radicalized?  Can be people on the political left and political right,.
+But ... but ... it is cheaper! So it must be better! Right? Right?
+Now we humans have yet to figure it out and we've got as close a look as you're gonna get and millenia of time to ponder upon it.
+This thing is a chatbot.
+Maybe the guy who decided to try using chatbots for therapy is an npc chatbot himself. Sure would explain quite a bit.
+Also...why in fuck's sake is there an ACM conference about "fairness"?
+Also...why in fuck's sake is there an ACM conference about "fairness"?Because the ACM has more people who think John Rawls has something to say about society than Ayn Rand?
+Also...why in fuck's sake is there an ACM conference about "fairness"?
+Because the ACM has more people who think John Rawls has something to say about society than Ayn Rand?
+I'm not sure what ACM is, but "fairness" is generally a positive thing in any context. Insinuating otherwise would require a thorough exposition. Without that, you just sound like a bitter weirdo and/or dumbass.
+Fairness is a strong stability factor and hence important, no matter what you think about the ethical aspects. A purely utilitarian society would also strife for and optimize fairness to get that stability effect.
+Yeah, I get the feeling that even if he tried to explain his position, he'd still sound like a bitter weirdo and/or dumbass. That tends to be why they don't. Easier to just throw out some edgelordy insinuations - shortcut straight to looking like (what they perceive as) a badass. Dude sounds like Grok.
+I'm giving him a chance, I always love to be surprised, but I'm expecting silence.
+Yep, same here.
+Also...why in fuck's sake is there an ACM conference about "fairness"?
+Probably because while we all agree that society should be "fair" we all have very different ideas of what "fair" means hence there is a need to discuss it. For example, if we take the extremes, the "equity-based" worldview defines fairness as equal outcomes regardless of situation or choices while the "equality-based" worldview takes fairness as treating everyone the same and leaves the outcomes entirely up to chance and the individual. I suspect/hope that despite the recent polarization of politics most
+Also...why in fuck's sake is there an ACM conference about "fairness"?
+Probably because while we all agree that society should be "fair" we all have very different ideas of what "fair" means hence there is a need to discuss it. For example, if we take the extremes, the "equity-based" worldview defines fairness as equal outcomes regardless of situation or choices while the "equality-based" worldview takes fairness as treating everyone the same and leaves the outcomes entirely up to chance and the individual. I suspect/hope that despite the recent polarization of politics most
+Do we not have too many useless people in society? Should we not open the door to more Darwinism?It's just the opposite. We are facing a population decline in every prosperous country.
+Do we not have too many useless people in society? Should we not open the door to more Darwinism?
+It's just the opposite. We are facing a population decline in every prosperous country.
+You can't blame useless wage levels without blaming the whole economic system. As a corporation, it's VERY hard to pay higher salaries than you need to, because either as a CEO/CFO you will be ousted due to low profits, or another company will provide the same service for a lower price and eat your lunch.
+"Fancy" companies, you know the type--they have a story behind their products--can charge more and pay more. But I don't think it's a sustainable strategy. Don't get me wrong--I'm concerned about the race t
+i suppose you are the person to judge a humans "usefulness"?
+no way this idea has gone wrong in history! interesting to think you are aware enough to not sign your name to edgy 14 year old thoughts
+Should we not open the door to more Darwinism?That would be the discredited political movement called "Social Darwinism", nothing to do with the theory of evolution.
+Should we not open the door to more Darwinism?
+That would be the discredited political movement called "Social Darwinism", nothing to do with the theory of evolution.
+This is very funny and lacking in self awareness
+you're taking too long to tell us about your utility. why are you under the impression you should still be allowed to breathe, based on your metrics?
+The USA is the equivalent of Intel on the markets. They used to be interresting , only game in town , now ANY place on earth is better than living in the USA. Americans are shocked when you bring up the topic in casual conversations. The US has gone to the dogs. They are paying the price for electing yet once again republicans that ALWAYS make a mess of the economy only to be saved by Democrats that have to come in and work their asses off to save the country from total economic ruin. That's the reality of
+So you are leaving soon, since it's just so horrible here? Or you don't live here and are just repeating what other people have said? Either way, sounds like you are going to leave or otherwise stay out of the USA, so cheers to you. You've washed your hands of it.
+Yes because the disaster response by the feds pre Trump was brilliant.  Just ask North Carolina, or the folks in Florida who were BY POLICY ignored because they had a Trump sign in their yard?
+So the fix is to make it even worse? Are you a complete idiot?
+Indeed. This administration really wants the US to be a 3rd world country with them the kleptocrats at the top. They essentially hate everybody but their own cabal. And the tragic thing is how many absolutely demented morons voted for them.
+Good point. Society finally finds a use for all those psychology majors the universities produce and then fails to use them. I'm not saying they would do better, but using a bunch of misanthropes for crisis counseling isn't likely to work well.
+Please no more "I asked ChatGPT silly thing and ChatGPT said stupid thing!" articles. Yeah we get it. You can find more and more things that lead a text generator to generate texts you don't like.It's just like that, get over it. Google maps can also list you bridges, if you ask it to do so.
+The general public is being propagandized with stuff like "It's like having a doctor in your pocket", so there is definitely a need for people to hear how the stuff actually works.
+Whether it belongs on Slashdot is another question, I would think the readers here already know, generally, how it works by now.
+Yeah, I'd wish OpenAI and others would do a bit more honest advertising.
+On the one hand they market it like your pocket genius, on the other hand they market it for tasks that can be done without AI (need a cake recipe?), but nowhere they tell what AI is really good at and what not.I've read they went from an research company to a product company. I guess that comes with changing marketing from what the product is meant to be to what sells the product best no matter if it is inaccurate.
+Yeah, saying "it's like consulting random people on Facebook and averaging their answers" wouldn't be a good marketing slogan.  It would be accurate.
+Nice!
+...but today's AI is not ready, not even close.Even the best human therapists produce mixed results, and the workings of the mind are not fully understood.I'm optimistic that AI tools will help researchers more completely understand the mind and that maybe, someday, an effective AI therapy tool will be developed.Anyone who uses today's AI for serious therapy is making a big mistake. Its only therapeutic use today is for entertainment, as it ineptly and humorously misinterprets requests
+There may be more comments in this discussion. Without JavaScript enabled, you might want to turn on Classic Discussion System in your preferences instead.
+Solar Was the Leading Source of Electricity In the EU Last Month
+Researchers Develop New Tool To Measure Biological Age
+"By the time they had diminished from 50 to 8, the other dwarves began
+to suspect "Hungry."
+-- a Larson cartoon

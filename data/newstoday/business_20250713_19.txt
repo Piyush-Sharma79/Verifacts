@@ -1,0 +1,29 @@
+TITLE: Tesla makes moves to expand robotaxis in the Bay Area and Phoenix
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/tesla-robotaxi-expansion-plans-bay-area-phoenix-austin-elon-musk-2025-7
+
+Tesla CEO Elon Musk said on X that the company plans to expand its robotaxi service area in Austin.Eric Gay/AP
+Tesla is making moves to expand its robotaxi service outside Texas, less than a month after it began sending invites to a select group of early riders in Austin.
+On the eve of xAI's Grok 4 launch on Wednesday, Tesla CEO Elon Musk said in a thread on X that the EV company will expand to a "larger service area" in Austin this weekend and that robotaxis will come to the San Francisco Bay Area "probably in a month or two" pending regulatory approval.
+Bill Lamoreaux, an Arizona Department of Transportation spokesperson, told Business Insider in an email that Tesla also applied in late June for certifications to operate and test autonomous vehicles with and without a safety driver in the Phoenix Metro area.
+Sawyer Merritt, a popular Tesla investor who frequently covers Musk's ventures, first reported the Phoenix news.
+Lamoreaux wrote in the email that a decision on the certifications is expected by the end of July. Once they're approved, Tesla will have to follow a self-certification process, he wrote.
+Each area where Tesla has set its expansion targets is a region where Alphabet's Waymo operates robotaxis without safety drivers present in the vehicles. Tesla's robotaxis in Austin are currently limited to 10 to 20 Model Ys and have safety operators in the front passenger seat.
+Waymo has deployed more than 1,500 robotaxis in multiple US cities as of June.
+The scale of expansion in Austin and the phase of Tesla's robotaxi service in the Bay Area and Phoenix — whether that's testing with or without early riders — remains unclear.
+The regulatory landscape for autonomous ride-hailing services in California is more extensive than in Texas, where companies don't need specific permits to operate autonomous vehicles.
+In California, companies must apply for permits with the Department of Motor Vehicles and the California Public Utilities Commission to begin testing autonomous vehicles.
+The CPUC granted Tesla what's called a transportation charter permit in March. It's a key milestone for the company to start a ride-hailing business, but the permit doesn't allow Tesla to operate quite like Uber or Lyft, let alone deploy autonomous vehicles. Instead, it allows Tesla to provide a transportation service with its own vehicles and only for its employees, almost like an internal chauffeur service.
+Taseen Shamim, a CPUC spokesperson, told BI in an email that Tesla hasn't applied for "any new CPUC-issued operating authorities" as of Thursday afternoon. When asked how long the approval process would take, the spokesperson said the agency "cannot speculate on process time."
+A California DMV spokesperson told BI in an email that Tesla has held a permit to test autonomous vehicles on public roads with a safety driver since 2014.
+"To date, Tesla has not applied for either a driverless testing or deployment permit," the spokesperson said, meaning Tesla can't yet test without a safety operator inside the vehicle or deploy robotaxis for the public.
+Gene Munster, a Tesla investor and managing partner at Deepwater Asset Management who covers robotaxis, said in his "Pressure Points" podcast that the expansion news brings further investor "optimism" and a clear sign that Tesla's stock will largely be dependent on the company's progress with autonomy and less so about vehicle deliveries.
+Munster added that Musk's announcement appears to mark a shift away from the Tesla robotaxi's "experiment" phase and more toward the business phase.
+When asked by BI if the limited number of passengers Tesla has invited for the robotaxi service so far factors into the investor outlook, Munster said that "anyway you look at it, it's still super early and any fractional datapoints factor into the slope of its adoption."
+Alex Roy, general partner at New Industry VC and former director of Argo AI, a self-driving startup, told BI that announcing expansion plans while Tesla still has safety drivers present inside the vehicle is important for the company as it plays catch-up with its competitor, namely, Waymo.
+The VC calls Tesla's move "minimum viable autonomy theater," in which a company executes the bare minimum — in this case, a limited-sized fleet, invite-only access, and safety operators present in the vehicle — to keep up with the "perception of real progress."
+Roy, who previously told BI that he's optimistic on Tesla's success, said Waymo did something similar with an early-access program several years before it rolled out a service to the general public, and that "theater" is not bad but, in Tesla's case, necessary.
+"They're going to keep doing that until they catch up to Waymo," he said.
+Tesla did not respond to a request for comment.
+
+Jump to

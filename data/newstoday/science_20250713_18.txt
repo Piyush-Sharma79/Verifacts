@@ -1,0 +1,21 @@
+TITLE: UK Online Safety Act 'not up to scratch' on misinformation, warn MPs
+SOURCE: Theregister.com
+URL: https://www.theregister.com/2025/07/11/online_safety_act_misinfo/
+
+The Online Safety Act fails to tackle online misinformation, leaving the UK in need of further regulation to curb the viral spread of false content, a report from MPs has found.
+In response, the Sci… [+2772 chars]
+
+FULL CONTENT:
+The Online Safety Act fails to tackle online misinformation, leaving the UK in need of further regulation to curb the viral spread of false content, a report from MPs has found.
+In response, the Science, Innovation and Technology Committee is urging the government to hold social media companies accountable for the way their platforms amplify misleading posts.
+In the summer of 2024, the UK witnessed riots and unrest, which MPs said were partly driven by online misinformation and hateful content following fatal stabbings at a children's dance class in Southport. Those posts were amplified on social media platforms by recommendation algorithms, they said.
+The Online Safety Act received royal assent in October 2023, and elements requiring social media companies to implement measures to protect users from illegal content and activity came into force in March this year.
+However, the committee warns that the legislation fails to address the algorithmic amplification of "legal but harmful content," leaving the public vulnerable to a repeat of last summer's crisis.
+Dame Chi Onwurah MP, chair of the Science, Innovation and Technology Committee, said: "It's clear that the Online Safety Act just isn't up to scratch. The government needs to go further to tackle the pervasive spread of misinformation that causes harm but doesn't cross the line into illegality.
+"Social media companies are not just neutral platforms but actively curate what you see online, and they must be held accountable. To create a stronger online safety regime, we urge the government to adopt five principles as the foundation of future regulation, ranging from protecting free expression to holding platforms accountable for content they put online."
+The report from the committee said that within hours of the Southport attack, misinformation sprouted online, including a false name and religion of the attacker.
+"Between 29 July and 9 August, false or unfounded claims about the Southport attacker achieved 155 million impressions on X [formerly Twitter]. Across social media, the false name was seen 420,000 times, with a potential reach of 1.7 billion people. It was directly promoted by social media algorithmic tools, featuring on X's 'Trending in the UK' and TikTok's 'Others searched for' features," the report said.
+MPs argued that social media platforms need to be held responsible for the algorithmic spread of misleading or deceptive content that can radicalize and harm users, but the Online Safety Act fails to address this point.
+"It is imperative that we regulate and legislate these technologies based on the principles set out in this report, harnessing the digital world in a way that protects and empowers citizens," the report said.
+During the hearings leading up to the report, the committee heard a range of interpretations of UK law, betraying a lack of clarity from Ofcom and the civil service over whether the Online Safety Act covers misinformation. ®
+Send us news

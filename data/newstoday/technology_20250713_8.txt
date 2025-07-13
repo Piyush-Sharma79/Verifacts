@@ -1,0 +1,27 @@
+TITLE: Apple Smart Glasses: Everything We Know About Apple's Answer to Meta Ray-Bans
+SOURCE: MacRumors
+URL: https://www.macrumors.com/guide/apple-smart-glasses/
+
+Apple is working on a set of smart glasses that will rival Meta's popular AI-equipped Ray-Bans, offering many of the same features. Rumors about Apple's work on the glasses have been picking up, and … [+3594 chars]
+
+FULL CONTENT:
+Apple is working on a set of smart glasses that will rival Meta's popular AI-equipped Ray-Bans, offering many of the same features. Rumors about Apple's work on the glasses have been picking up, and we've gathered all of the information we've heard in the guide below.
+
+There have been persistent rumors about Apple's work on augmented reality smart glasses, but true, lightweight augmented reality glasses are still years away. What's feasible now is a set of smart glasses that don't have any display functions, and that instead rely on cameras, speakers, AI integration, and sensors to offer useful features to wearers.
+Apple's first smart glasses will be an iPhone accessory like the Apple Watch or AirPods, able to provide auxiliary features to reduce ‌iPhone‌ reliance.
+Apple plans to offer multiple material and frame options, making the smart glasses as much of a fashion accessory as the Apple Watch once was. Buyers will be able to choose their preferred color and frame style, selecting from metal and plastic frame options.
+Apple is apparently testing 3D printing technology for manufacturing.
+It's likely that Apple will offer both standard lenses and sunglasses, and based on the Vision Pro, Apple will also support prescription lenses. There's already a mechanism in place for ordering custom Vision Pro lenses through Zeiss, so Apple could expand that to cover the smart glasses as well.
+Cameras and microphones will be included, and there is likely to be an LED light that indicates when the camera is active.
+The glasses are expected to support touch-based controls, such as a tap to snap a photo, and voice-based controls.
+Here's what you'll be able to do with Apple's smart glasses, based on what we know so far:
+
+Apple's smart glasses may need a connection to an ‌iPhone‌ to provide functionality like music playback and AI assistance, though they will have some on-device capabilities. Apple is designing a custom SoC for the glasses that's based on the chip in the Apple Watch.
+The cameras in Apple's smart glasses will be able to feed information to an AI assistant. The AI will be able to answer questions about what the wearer is seeing, similar to how Visual Intelligence works on the ‌iPhone‌ today.
+AI will be able to control the glasses and do things like snap a photo or play music, plus it will be able to provide directions.
+There's no word on what the smart glasses will cost, but somewhere in the AirPods to Apple Watch range would make sense. Meta's glasses are priced starting at $300.
+Apple's main competition will be the Meta Ray-Bans and the Meta Oakleys. Meta teamed up with popular sunglasses manufacturers and its smart glasses have proven popular with customers.
+The Meta Ray-Bans use the traditional Wayfarer style and come in a range of colors, plus there are other frame options available as well.
+Bloomberg's Mark Gurman believes Apple could introduce the smart glasses as soon as 2026, but Apple analyst Ming-Chi Kuo doesn't expect them to come out until 2027.
+Apple's first smart glasses will not include augmented reality capabilities, but a future version could integrate a display that would overlay digital information on the real world view.
+Augmented reality glasses are a longtime goal of Apple's, and it is technology that the company is actively pursuing.

@@ -1,0 +1,36 @@
+TITLE: India finds engine fuel cutoff switch movement in fatal Air India crash
+SOURCE: CBC News
+URL: https://www.cbc.ca/news/world/air-india-crash-investigators-preliminary-report-1.7583430
+
+A preliminary report into the Air India crash that killed more than 200 people last month showed three seconds after taking off, the plane's engines fuel cutoff switches almost simultaneously flipped… [+1588 chars]
+
+FULL CONTENT:
+A preliminary report depicted confusion in the cockpit shortly before an Air India jetliner crashed and killed 260 people last month, after the plane's engine fuel cut-off switches flipped almost simultaneously and starved the engines of fuel.
+The Boeing 787 Dreamliner bound for London from the Indian city of Ahmedabad began to lose thrust and sink shortly after takeoff on June 12, according to the report on the world's deadliest aviation accident in a decade.
+The report, released on Saturday by India's Aircraft Accident Investigation Bureau (AAIB), raises fresh questions over the position of the critical engine fuel cut-off switches, while suggesting Boeing and engine maker GE had no apparent responsibility for the accident.
+Almost immediately after the plane lifted off the ground, CCTV footage shows, a backup energy source called a ram air turbine had deployed, indicating a loss of power from the engines.
+In the flight's final moments, one pilot was heard on the cockpit voice recorder asking the other why he cut off the fuel. "The other pilot responded that he did not do so," the report said.
+It did not identify which remarks were made by the flight's captain and which by the first officer, and which pilot transmitted "mayday, mayday, mayday" just before the crash.
+The commanding pilot of the Air India plane was Sumeet Sabharwal, 56, who had a total flying experience of 15,638 hours and, according to the Indian government, was also an Air India instructor. His co-pilot was Clive Kunder, 32, who had 3,403 hours of total experience.
+The fuel switches had almost simultaneously flipped from run to cut-off just after takeoff. The preliminary report did not say how the switch could have flipped to the cut-off position during the flight.
+The crash is a challenge for Tata Group's ambitious campaign to restore Air India's reputation and revamp its fleet, after taking the carrier over from the government in 2022.
+Air India acknowledged the report in a statement. The carrier said it was co-operating with Indian authorities, but declined further comment.
+Experts have said a pilot would not be able to accidentally move the fuel switches.
+"If they were moved because of a pilot, why?" asked U.S. aviation safety expert Anthony Brickhouse.
+The switches flipped a second apart, the report said, roughly the time it would take to shift one and then the other, U.S. aviation expert John Nance said. He added that a pilot would normally never turn the switches off in flight, especially as the plane is starting to climb.
+Flipping to cut-off almost immediately cuts the engines. It is most often used to turn engines off once a plane has arrived at its airport gate and in certain emergency situations, such as an engine fire. The report does not indicate there was any emergency requiring an engine cut-off.
+At the crash site, both fuel switches were found in the run position and there had been indications of both engines relighting before the low-altitude crash, said the report, which was released around 1:30 a.m. IST on Saturday (4 p.m. ET on Friday).
+Asked about the report, the father of first officer Kunder told reporters, "I am not from the airline," declining to comment further during a prayer meeting held in the memory of the airline's crew on Saturday in Mumbai, where emotional scenes played out among grieving relatives.
+The U.S. National Transportation Safety Board thanked Indian officials for their co-operation in a statement and noted that there were no recommended actions in the report aimed at operators of Boeing 787 jets or the GE engines.
+The U.S. Federal Aviation Administration said its priority was to follow the facts where they lead and that it was committed to promptly addressing any risks identified throughout the process.
+Boeing said it continued to support the investigation and its customer, Air India. GE Aerospace did not respond immediately to a request for comment.
+The AAIB, an office under India's Civil Aviation Ministry, is leading the probe into the crash, which killed all but one of the 242 people on board and 19 others on the ground.
+Most air crashes are caused by multiple factors, with a preliminary report due 30 days after the accident according to international rules, and a final report expected within a year.
+The plane's two black boxes — combined cockpit voice recorders and flight data recorders — were recovered in the days following the crash and later downloaded in India.
+Black boxes provide crucial data such as altitude, airspeed and final pilot conversations that help in narrowing down possible causes of the crash.
+The airport closed-circuit TV recording from Ahmedabad had earlier shown the Air India plane rose to a height of about 198 metres after takeoff but then suddenly lost altitude, crashing in a fireball into a nearby building.
+The investigation report said that as the Dreamliner lost altitude, it initially made contact with several trees and an incineration chimney before hitting the building.
+Air India has faced additional scrutiny on other fronts after the crash.
+The European Union Aviation Safety Agency said it plans to investigate the airline's budget unit, Air India Express, after Reuters reported that the carrier did not follow a directive to change engine parts of an Airbus A320 in a timely manner and falsified records to show compliance.
+India's aviation watchdog has also warned Air India for breaching rules for flying three Airbus planes with overdue checks on escape slides, and in June warned it about "serious violations" of pilot duty timings.
+India is banking on a boom in aviation to support wider development goals, with New Delhi saying it wants India to be a job-creating global aviation hub along the lines of Dubai, which currently handles much of the country's international traffic.

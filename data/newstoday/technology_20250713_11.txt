@@ -1,0 +1,36 @@
+TITLE: Anthropic changes hiring policy after Business Insider reported it banned job applicants from using AI
+SOURCE: Business Insider
+URL: https://www.businessinsider.com/anthropic-job-application-search-ai-use-claude-policy-change-2025-7
+
+Anthropic CEO Dario AmodeiChesnot/Getty Images
+This is what's known in the journalism business as a victory lap. You wrote something and, instead of the piece sinking into the bottomless ocean of digital content, it actually had an impact.
+In May, I reported that Anthropic wouldn't let candidates use AI when applying for a job at the AI lab.
+Why would an AI company not want people using its products like this? This technology is supposed to take over the world, revolutionizing every aspect of work and play. Why stop at job applications? I asked at the time.
+About a week later, Anthropic executive Mike Krieger was asked about this on CNBC. He said the company was planning to reverse the ban.
+In the weeks that followed, I occasionally checked Anthropic's job listings, and they continued to include the ban on using AI to write a required "Why Anthropic?" essay during the application process.
+I added this to my unscientific dataset of experiences covering business and technology over the past quarter of a century: When an executive is put on the spot on TV and says they will do something, I estimate there's roughly a 50% chance of the thing actually happening.
+So, I was surprised on Friday when Anthropic emailed me their new hiring policy. You can read the whole thing here. This is the headline quote:"Where it makes sense, we invite you to use Claude to show us more of you: your unique perspective, skills, and experiences," Anthropic wrote, referring to its very capable AI chatbot.
+Under the new approach, candidates are encouraged to collaborate with Claude for tasks such as refining résumés, crafting more articulate cover letters and essays, and preparing for interviews.
+This is a key part for me, and it's probably good advice for anyone applying for any job these days: When writing a résumé and cover letter, or when answering application questions, Anthropic wants candidates to write the first draft themselves, and then use Claude to refine it.
+"We want to see your real experience, but Claude can polish how you communicate about your work," the startup explained.
+Direct skills assessments and live interviews remain strictly human-only unless otherwise stated.
+"We believe AI should enhance human capabilities, not replace them," wrote Jimmy Gould, head of talent at Anthropic.
+The company is looking for applicants who can treat AI as a creative partner, not a crutch.
+Anthropic insists that Claude is not making hiring decisions, nor is candidate data being used to train the startup's AI models. The goal, Gould emphasized, is to support authentic storytelling.
+"That's why our process is designed to showcase your authentic experience while acknowledging the valuable role AI can play as a collaborator," he wrote on LinkedIn.
+This updated policy reflects broader tensions in the tech world: how to hire talent proficient in AI without undermining the evaluation of core human skills.
+"The pendulum is swinging more toward humanities and authentic human experiences," noted veteran tech recruiter Jose Guardado, adding that misuse of AI in evaluations can erode trust.
+As AI tools increasingly augment work, Anthropic's new hiring guidelines offer a playbook for tech firms navigating the fine line between automation and authenticity.
+For candidates, the message is clear: Bring your real self, and bring Claude, too. Just know when to let it speak, and when to shut it off.
+Sign up for BI's Tech Memo newsletter here. Reach out to me via email at abarr@busienssinsider.com.
+
+
+
+
+
+
+
+
+
+
+Jump to

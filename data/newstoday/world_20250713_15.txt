@@ -1,0 +1,20 @@
+TITLE: Bug Hunters Gain Access to 64 Million McDonald’s Job Applicants’ Info by Using the Password ‘123456’
+SOURCE: Gizmodo.com
+URL: https://gizmodo.com/bug-hunters-gain-access-to-64-million-mcdonalds-job-applicants-info-by-using-the-password-123456-2000627821
+
+A recruitment platform used by McDonald’s is alleged to have had such poor cybersecurity that researchers were able to log into it using a non-password and thus gain access to information on tens of … [+2960 chars]
+
+FULL CONTENT:
+A recruitment platform used by McDonald’s is alleged to have had such poor cybersecurity that researchers were able to log into it using a non-password and thus gain access to information on tens of millions of job applicants, including contact details and chat logs between the user and the restaurant’s AI bot.
+The platform in question, called McHire, operates a chatbot, dubbed Olivia. Job applicants chat with Olivia, who, in an effort to decide whether they’re worthy of flipping hamburgers or not, assesses them via a personality test. The bot was created by a company called Paradox.ai.
+Security researchers Sam Curry and Ian Carroll found that, using the username/password combination 123456/123456, they were able to log into the application, where they were given access to a treasure trove of information on job applicants. Indeed, Curry and Carroll were able to “retrieve the personal data of more than 64 million applicants,” the researchers write.
+Their write-up is as hilarious as it is disturbing. The duo notes:
+“Without much thought, we entered “123456” as the username and “123456” as the password and were surprised to see we were immediately logged in! It turned out we had become the administrator of a test restaurant inside the McHire system.
+The information included names, email addresses, phone numbers, addresses, the state where the job candidate lived, and the auth token they used to gain access to the website. Additionally, Curry and Carroll could see “every chat interaction [from every person] that has ever applied for a job at McDonald’s.”
+It’s all pretty shameful stuff, although not particularly surprising. Cybersecurity has never been prioritized in the corporate world, which is why everything is getting hacked all the time. Many software programs are designed without any apparent concern for security at all. Still, the level of incompetence here is pretty damn bad and should be considered embarrassing for everyone involved.
+Curry and Carroll write that they disclosed the security problems to Paradox.ai and McDonald’s on June 30th. On the same day, the restaurant chain confirmed that the credentials in question were “no longer usable to access the app.” On July 1st, Paradox.ai. communicated to the researchers that the issues had “been resolved.” In a blog post, Paradox clarified what had happened: “On June 30, two security researchers reached out to the Paradox team about a vulnerability on our system. We promptly investigated the issue and resolved it within a few hours of being notified.” The company went on to say:
+Using a legacy password, the researchers logged into a Paradox test account related to a single Paradox client instance. We’ve updated our password security standards since the account was created, but this test account’s password was never updated. Once logged into the test account, the researchers identified an API endpoint vulnerability that allowed them to access information related to chat interactions in the affected client instance. Unfortunately, none of our penetration tests previously identified the issue.
+Gizmodo reached out to both companies for more information.
+Get the best tech, science, and culture news in your inbox daily.
+News from the future, delivered to your present.
+Please select your desired newsletters and submit your email to upgrade your inbox.
